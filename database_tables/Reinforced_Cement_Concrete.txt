@@ -1,0 +1,187 @@
+5.1.1	Providing and laying in position specified grade of reinforced cement concrete, excluding the cost of centering, shuttering, finishing and reinforcement - All work up to plinth level :1:1:2 (1 cement : 1 coarse sand : 2 graded stone aggregate 20 mm nominal size)	cum	6333.40
+5.1.2	Providing and laying in position specified grade of reinforced cement concrete, excluding the cost of centering, shuttering, finishing and reinforcement - All work up to plinth level :1:1.5:3 (1 cement : 1.5 coarse sand : 3 graded stone aggregate 20 mm nominal size)	cum	5094.85
+5.1.3	Providing and laying in position specified grade of reinforced cement concrete, excluding the cost of centering, shuttering, finishing and reinforcement - All work up to plinth level :1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size)	cum	4703.90
+5.2.1	Reinforced cement concrete work in walls (any thickness), including attached pilasters, buttresses, plinth and string courses, fillets, columns, pillars, piers, abutments, posts and struts etc. up to floor five level, excluding cost of centering, shuttering, finishing and reinforcement :1:1:2 (1 cement : 1 coarse sand : 2 graded stone aggregate 20 mm nominal size)	cum	6974.30
+5.2.2	Reinforced cement concrete work in walls (any thickness), including attached pilasters, buttresses, plinth and string courses, fillets, columns, pillars, piers, abutments, posts and struts etc. up to floor five level, excluding cost of centering, shuttering, finishing and reinforcement :1:1.5:3 (1 cement : 1.5 coarse sand : 3 graded stone aggregate 20 mm nominal size)	cum	5735.75
+5.2.3	Reinforced cement concrete work in walls (any thickness), including attached pilasters, buttresses, plinth and string courses, fillets, columns, pillars, piers, abutments, posts and struts etc. up to floor five level, excluding cost of centering, shuttering, finishing and reinforcement :1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size)	cum	5344.80
+5.3	Reinforced cement concrete work in beams, suspended floors, roofs having slope up to 15° landings, balconies, shelves, chajjas, lintels, bands, plain window sills, staircases and spiral stair cases up to floor five level, excluding the cost of centering, shuttering, finishing and reinforcement, with 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size).	cum	5494.55
+5.4	Providing and laying up to floor five level reinforced cement concrete in kerbs, steps and the like, excluding the cost of centering, shuttering, finishing and reinforcement, with 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size).	cum	5181.25
+5.5	Reinforced cement concrete work in arches, archribs, domes, vaults, shells, folded plate and roofs having slope more than 15° up to floor five level, excluding the cost of centering, shuttering, finishing and reinforcement, with 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size).	cum	5684.55
+5.6	Reinforced cement concrete work in chimneys, shafts, up to floor five level, excluding the cost of centering, shuttering, finishing and reinforcement, with 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size).	cum	5419.40
+5.7	Reinforced cement concrete work in well-steining, excluding the cost of centering, shuttering, finishing and reinforcement, with 1:2:4 (1 cement: 2 coarse sand : 4 graded stone aggregate 20 mm nominal size).	cum	4537.00
+5.8	Reinforced cement concrete work in vertical and horizontal fins individually or forming box louvers, facias and eaves boards up to floor five level, excluding the cost of centering, shuttering, finishing and reinforcement, with 1:1½:3 (1 cement : 1½ coarse sand : 3 graded stone aggregate 20 mm nominal size).	cum	5442.00
+5.9.1	Centering and shuttering including strutting, propping etc. and removal of form for :Foundations, footings, bases of columns, etc. for mass concrete	sqm	166.90
+5.9.2	Centering and shuttering including strutting, propping etc. and removal of form for :Walls (any thickness) including attached pilasters, butteresses, plinth and string courses etc.	sqm	285.15
+5.9.3	Centering and shuttering including strutting, propping etc. and removal of form for :Suspended floors, roofs, landings, balconies and access platform	sqm	311.20
+5.9.4	Centering and shuttering including strutting, propping etc. and removal of form for :Shelves (Cast in situ)	sqm	311.20
+5.9.5	Centering and shuttering including strutting, propping etc. and removal of form for :Lintels, beams, plinth beams, girders, bressumers and cantilevers	sqm	262.25
+5.9.6	Centering and shuttering including strutting, propping etc. and removal of form for :Columns, Pillars, Piers, Abutments, Posts and Struts	sqm	365.60
+5.9.7	Centering and shuttering including strutting, propping etc. and removal of form for :Stairs, (excluding landings) except spiral-staircases	sqm	326.30
+5.9.8	Centering and shuttering including strutting, propping etc. and removal of form for :Spiral staircases (including landing)	sqm	290.90
+5.9.9	Centering and shuttering including strutting, propping etc. and removal of form for :Arches, domes, vaults up to 6 m span	sqm	866.70
+5.9.10	Centering and shuttering including strutting, propping etc. and removal of form for :Extra for arches, domes, vaults exceeding 6 m span	sqm	417.85
+5.9.11	Centering and shuttering including strutting, propping etc. and removal of form for :Chimneys and shafts	sqm	285.15
+5.9.12	Centering and shuttering including strutting, propping etc. and removal of form for :Well steining	sqm	205.15
+5.9.13	Centering and shuttering including strutting, propping etc. and removal of form for :Vertical and horizontal fins individually or forming box louvers band, facias and eaves boards	sqm	470.10
+5.9.14	Centering and shuttering including strutting, propping etc. and removal of form for :Extra for shuttering in circular work (20% of respective centering and shuttering items)	sqm	20.00%
+5.9.15	Centering and shuttering including strutting, propping etc. and removal of form for :Small lintels not exceeding 1.5 m clear span, moulding as in cornices, window sills, string courses, bands, copings, bed plates, anchor blocks and the like	sqm	166.90
+5.9.16.1	Centering and shuttering including strutting, propping etc. and removal of form for :Edges of slabs and breaks in floors and walls.Under 20 cm wide	metre	99.45
+5.9.16.2	Centering and shuttering including strutting, propping etc. and removal of form for :Edges of slabs and breaks in floors and walls.Above 20 cm wide	sqm	441.10
+5.9.17	Centering and shuttering including strutting, propping etc. and removal of form for :Cornices and mouldings	sqm	495.50
+5.9.18	Centering and shuttering including strutting, propping etc. and removal of form for :Small surfaces such as cantilever ends, brackets and ends of steps, caps and bases to pilasters and columns and the like	sqm	398.35
+5.9.19	Centering and shuttering including strutting, propping etc. and removal of form for :Weather shade, Chajjas, corbels etc., including edges	sqm	411.10
+5.9.20	Centering and shuttering including strutting, propping etc. and removal of form for :Suspended floors, roofs, landings, balconies and access platform. with water proof ply 12 mm thick	sqm	488.05
+5.9.21	Lintels, beams, plinth beams, girders, bressumers and cantilevers. with water proof ply 12 mm thick	sqm	459.00
+5.10.1	Providing and fixing tie bolt, spring coil and plastic cone in wall shuttering complete as per the direction of Engineer-in-charge.12 mm dia. & 100 mm length	each set	125.95
+5.10.2	Providing and fixing tie bolt, spring coil and plastic cone in wall shuttering complete as per the direction of Engineer-in-charge.12 mm dia. & 150 mm length	each set	139.85
+5.10.3	Providing and fixing tie bolt, spring coil and plastic cone in wall shuttering complete as per the direction of Engineer-in-charge.20 mm dia. & 150 mm length	each set	153.80
+5.10.4	Providing and fixing tie bolt, spring coil and plastic cone in wall shuttering complete as per the direction of Engineer-in-charge.20 mm dia.& 225 mm length	each set	174.70
+5.11.1	Extra for additional height in centering, shuttering where ever required with adequate bracing, propping etc., including cost of de-shuttering and decentering at all levels, over a height of 3.5 m, for every additional height of 1 metre or part thereof (Plan area to be measured).Suspended floors, roofs, landing, beams and balconies (Plan area to be measured)	sqm	121.65
+5.12	Providing, hoisting and fixing up to floor five level precast reinforced cement concrete work in string courses, bands, copings, bed plates, anchor blocks, plain window sills and the like, including the cost of required centering, shuttering but excluding cost of reinforcement, with 1:2:4 (1 cement: 2 coarse sand: 4 graded stone aggregate 20 mm nominal size).	cum	5265.20
+5.13	Providing, hoisting and fixing up to floor five level precast reinforced cement concrete in small lintels not exceeding 1.5 m clear span up to floor five level, including the cost of required centering, shuttering but excluding the cost of reinforcement, with 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size).	cum	8720.30
+5.14	Providing, hoisting and fixing up to floor five level precast reinforced cement concrete in mouldings as in cornices, windows sills etc., including setting in cement mortar 1:3 (1 cement : 3 coarse sand) cost of required centering, shuttering but excluding the cost of reinforcement, with 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size).	cum	8089.00
+5.15	Providing, hoisting and fixing up to floor five level precast reinforced cement concrete in lintels, beams and bressumers, including setting in cement mortar 1:3 (1 cement : 3 coarse sand), cost of required centering and shuttering but excluding the cost of reinforcement, with 1:2:4 (1 cement: 2 coarse sand : 4 graded stone aggregate 20 mm nominal size).	cum	6754.00
+5.16	Providing, hoisting and fixing up to floor five level precast reinforced cement concrete in shelves, including setting in cement mortar 1:3 (1 cement : 3 coarse sand), cost of required centering, shuttering and finishing with neat cement punning on exposed surfaces but excluding the cost of reinforcement, with 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 12.5 mm nominal size).	cum	9872.85
+5.17	Providing, hoisting and fixing up to floor five level precast reinforced cement concrete in vertical & horizontal fins, individually or forming box louvers, setting in cement mortar 1:2 (1 cement : 2 coarse sand), including the cost of required centering, shuttering but excluding the cost of reinforcement, with 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size).	cum	5897.50
+5.18.1	Providing precast cement concrete Jali 1:2:4 (1 cement : 2 coarse sand: 4 graded stone aggregate 6 mm nominal size), reinforced with 1.6 mm dia mild steel wire, including centering and shuttering, roughening cleaning, fixing and finishing in cement mortar 1:3 (1 cement: 3 fine sand) etc. complete, excluding plastering of the jambs, sills and soffits.50 mm thick	sqm	598.15
+5.18.2	Providing precast cement concrete Jali 1:2:4 (1 cement : 2 coarse sand: 4 graded stone aggregate 6 mm nominal size), reinforced with 1.6 mm dia mild steel wire, including centering and shuttering, roughening cleaning, fixing and finishing in cement mortar 1:3 (1 cement: 3 fine sand) etc. complete, excluding plastering of the jambs, sills and soffits.40 mm thick	sqm	523.80
+5.18.3	Providing precast cement concrete Jali 1:2:4 (1 cement : 2 coarse sand: 4 graded stone aggregate 6 mm nominal size), reinforced with 1.6 mm dia mild steel wire, including centering and shuttering, roughening cleaning, fixing and finishing in cement mortar 1:3 (1 cement: 3 fine sand) etc. complete, excluding plastering of the jambs, sills and soffits.25 mm thick	sqm	483.15
+5.19	Encasing rolled steel sections, in beams and columns, with cement concrete 1:2:4 (1 cement: 2 coarse sand: 4 graded stone aggregate 12.5 mm nominal size), including centering and shuttering complete but excluding cost of reinforcement.	cum	7259.65
+5.20	Encasing rolled steel section in grillages with cement concrete 1:2:4 (1 cement: 2 coarse sand: 4 graded stone aggregate 12.5 mm nominal size), including centering and shuttering but excluding cost of expanded metal and hangers.	cum	4941.60
+5.21	Extra for providing and fixing expanded metal mesh of size 20x60 mm and strands 3.25 mm wide 1.6 mm thick weighing 3.64 kg per sqm for encasing of rolled steel sections in beams, columns and grillages, excluding cost of hangers.	sqm	349.90
+5.22.1	Steel reinforcement for R.C.C. work including straightening, cutting, bending, placing in position and binding all complete upto plinth level.Mild steel and Medium Tensile steel bars	kilogram	56.75
+5.22.2	Steel reinforcement for R.C.C. work including straightening, cutting, bending, placing in position and binding all complete upto plinth level.Hard drawn steel wire	kilogram	58.15
+5.22.3	Steel reinforcement for R.C.C. work including straightening, cutting, bending, placing in position and binding all complete upto plinth level.Cold twisted bars	kilogram	62.25
+5.22.4	Steel reinforcement for R.C.C. work including straightening, cutting, bending, placing in position and binding all complete upto plinth level.Hot rolled deformed bars	kilogram	62.25
+5.22.5	Steel reinforcement for R.C.C. work including straightening, cutting, bending, placing in position and binding all complete upto plinth level.Hard drawn steel wire fabric	kilogram	73.40
+5.22.6	Steel reinforcement for R.C.C. work including straightening, cutting, bending, placing in position and binding all complete upto plinth level.Thermo-Mechanically Treated bars	kilogram	62.25
+5.22.1(A)	Steel reinforcement for R.C.C. work including straightening, cutting, bending, placing in position and binding all complete above plinth level.Mild steel and Medium Tensile steel bars	kilogram	56.75
+5.22.2(A)	Steel reinforcement for R.C.C. work including straightening, cutting, bending, placing in position and binding all complete above plinth level.Hard drawn steel wire	kilogram	58.15
+5.22.3(A)	Steel reinforcement for R.C.C. work including straightening, cutting, bending, placing in position and binding all complete above plinth level.Cold twisted bars	kilogram	62.25
+5.22.4(A)	Steel reinforcement for R.C.C. work including straightening, cutting, bending, placing in position and binding all complete above plinth level.Hot rolled deformed barS	kilogram	62.25
+5.22.5(A)	Steel reinforcement for R.C.C. work including straightening, cutting, bending, placing in position and binding all complete above plinth level.Hard drawn steel wire fabric	kilogram	73.40
+5.22.6(A)	Steel reinforcement for R.C.C. work including straightening, cutting, bending, placing in position and binding all complete above plinth level.Thermo-Mechanically Treated bars	kilogram	62.25
+5.23	Smooth finishing of the exposed surface of R.C.C. work with 6 mm thick cement mortar 1:3 (1 Cement : 3 fine sand).	sqm	101.00
+5.24	Extra for rendering smooth the top of suspended floors, landings and staircases (treads and risers) with cement mortar 1:2 (1 cement : 2 coarse sand), including a floating coat of neat cement and protecting the surface with a layer of 7.5 cm of earth laid over 15 mm of fine sand in case of suspended floor and bricks laid in mud mortar in case of landings and steps, including subsequent removal and cleaning of the same.	sqm	70.85
+5.25	Providing and fixing in position copper plate as per design for expansion joints.	kg	322.15
+5.26	Providing and filling in position, blown bitumen in expansion joints.	per cm depth per cm width per 100 m	522.65
+5.27	Providing and filling in position bitumen mix filler of Proportion 80 kg of  hot bitumen, 1 kg. of cement and 0.25 cubicmetre of coarse sand for expansion joints.	per cm depth per cm width per 100 m	167.35
+5.28	Providing and fixing in position 12 mm thick bitumen impregnated fibre  board conforming to IS: 1838, including cost of primer, sealing compound in expansion joints.	per cm depth per 100 m	430.30
+5.29.1.1	Providing and fixing sheet covering over expansion joints with iron screws	as per design.Non-asbestos fibre cement board 6 mm thick as per IS: 14862.150mm wide	metre	96.80
+5.29.1.2	Providing and fixing sheet covering over expansion joints with iron screws	as per design.Non-asbestos fibre cement board 6 mm thick as per IS: 14862.200mm wide	metre	130.00
+5.29.2.1	Providing and fixing sheet covering over expansion joints with iron screws	as per design.Aluminium fluted strips 3.15 mm thick.150 mm wide	metre	312.35
+5.29.2.2	Providing and fixing sheet covering over expansion joints with iron screws	as per design.Aluminium fluted strips 3.15 mm thick.200 mm wide	metre	437.30
+5.30	Add for plaster drip course/ groove in plastered surface or moulding to R.C.C. projections.	metre	22.25
+5.31	Extra for laying reinforced cement concrete in or under water and/ or liquid mud, including cost of pumping or bailing out water and removing slush etc., complete.	cum	325.10
+5.32	Extra for laying reinforced cement concrete in or under foul positions.	cum	128.10
+5.33.1	Providing and laying in position machine batched and machine mixed design mix M-25 grade cement concrete for reinforced cement concrete work, using cement content as per approved design mix, including pumping of concrete to site of laying but excluding the cost of centering, shuttering, finishing and reinforcement, including admixtures in recommended proportions as per IS: 9103 to accelerate, retard setting of concrete, improve workability without impairing strength and durabilit as per direction of Engineer-in-charge.All works upto plinth level	cum	5242.15
+5.33.2	Providing and laying in position machine batched and machine mixed design mix M-25 grade cement concrete for reinforced cement concrete work, using cement content as per approved design mix, including pumping of concrete to site of laying but excluding the cost of centering, shuttering, finishing and reinforcement, including admixtures in recommended proportions as per IS: 9103 to accelerate, retard setting of concrete, improve workability without impairing strength and durabilit as per direction of Engineer-in-charge.All works above plinth level upto floor V level	cum	5781.50
+5.34.1	Extra for providing richer mixes at all floor levels. Providing M-30 grade concrete instead of M-25 grade BMC/ RMC. (Note:- Cement content considered in M-30 is @ 340 kg/cum)	cum	63.20
+5.34.2	Extra for providing richer mixes at all floor levels. Providing M-35 grade concrete instead of M-25 grade BMC/ RMC. (Note : Cement content considered in M-35 is @ 350 kg/ cum)	cum	126.45
+5.34.3	Extra for providing richer mixes at all floor levels. Providing M-40 grade concrete instead of M-25 grade BMC/ RMC.(Note : Cement content considered in M-40 is @ 360 kg/ cum)	cum	186.90
+5.35	Add for using extra cement in the items of design mix over and above the specified cement content therein.	quintal	589.80
+5.36	Providing and placing in position precast reinforced cement concrete waffle units, square or rectangular, as per design and shape for floors and roofs in 1:1½:3 (1 Cement : 1½ coarse sand : 3 graded stone aggregate 10 mm nominal size), including flush or deep ruled pointing at joints in Cement mortar 1:2 (1 Cement : 2 Fine sand), making necessary holes of required sizes for carrying through service lines etc., providing steel hooks for lifting etc, form work in precasting, handling, hoisting, centering and erection complete for all floor levels but excluding the cost of reinforcement.	cum	14097.20
+5.37.1	Providing and laying in position ready mixed M-25 grade concrete for reinforced cement concrete work, using cement content as per approved design mix, manufactured in fully automatic batching plant and transported to site of work in transit mixer for all leads, having continuous agitated mixer, manufactured as per mix design of specified grade for reinforced cement concrete work, including pumping of R.M.C. from transit mixer to site of laying , excluding the cost of centering, shuttering finishing and reinforcement, including cost of admixtures in recommended proportions as per IS : 9103 to accelerate/ retard setting of concrete, improve workability without impairing strength and durability as per direction of the Engineer - in - charge. All works upto plinth level	cum	5590.60
+5.37.2	Providing and laying in position ready mixed M-25 grade concrete for reinforced cement concrete work, using cement content as per approved design mix, manufactured in fully automatic batching plant and transported to site of work in transit mixer for all leads, having continuous agitated mixer, manufactured as per mix design of specified grade for reinforced cement concrete work, including pumping of R.M.C. from transit mixer to site of laying , excluding the cost of centering, shuttering finishing and reinforcement, including cost of admixtures in recommended proportions as per IS : 9103 to accelerate/ retard setting of concrete, improve workability without impairing strength and durability as per direction of the Engineer - in - charge. All works above plinth level upto floor V level	cum	6130.00
+5.38	Extra for R.C.C./ B.M.C/ R.M.C. work above floor V level for each four floors or part thereof.	cum	151.00
+5.40.1	Providing and laying in position ready mixed M-25 grade concrete for reinforced cement concrete work, using fly ash and cement content as per approved design mix, and manufactured in fully automatic batching plant and transported to site of work in transit mixer for all leads, having continuous agitated mixer, manufactured as per mix design of specified grade for reinforced cement concrete work, including pumping of R.M.C. from transit mixer to site of laying, excluding the cost of centering, shuttering, finishing and reinforcement, including cost of admixtures in recommended proportions as per IS : 9103 to accelerate / retard setting of concrete, improve workability without impairing strength and durability as per direction of the Engineer - in - charge.All works up to Plinth level.	cum	5519.40
+5.40.2	Providing and laying in position ready mixed M-25 grade concrete for reinforced cement concrete work, using fly ash and cement content as per approved design mix, and manufactured in fully automatic batching plant and transported to site of work in transit mixer for all leads, having continuous agitated mixer, manufactured as per mix design of specified grade for reinforced cement concrete work, including pumping of R.M.C. from transit mixer to site of laying, excluding the cost of centering, shuttering, finishing and reinforcement, including cost of admixtures in recommended proportions as per IS : 9103 to accelerate / retard setting of concrete, improve workability without impairing strength and durability as per direction of the Engineer - in - charge.All works above plinth & up to floor V level.	cum	6059.20
+5.41.1	Supplying and applying pre tested and approved water based concrete curing compound to concrete/ masonry surface, all as per manufacturer's specification and direction of Engineer-in-charge.Non pigmented wet curing compound	kg	83.05
+5.41.2	Supplying and applying pre tested and approved water based concrete curing compound to concrete/ masonry surface, all as per manufacturer's specification and direction of Engineer-in-charge.Pigmented wet curing compound	kg	97.00
+5.42.1	Providing and fixing tapered / parallel threaded couplers conforming to IS code on "Reinforcement Couplers for Mechanical Splices of Bars for Concrete Reinforcement - Specification", to reinforcement bars including threading, enlargement at connection by forging, protecting the preparedreinforcement bars and related operations as required to complete the works per direction of Engineer-in-Charge. (The length of the bars in which coupler is to be provided should not be less than 4 metre, no deduction for labour and binding wire saved for not providing lap length shall be made).Coupler for 16 mm diameter reinforcement bar	each	115.65
+5.42.2	Providing and fixing tapered / parallel threaded couplers conforming to IS code on "Reinforcement Couplers for Mechanical Splices of Bars for Concrete Reinforcement - Specification", to reinforcement bars including threading, enlargement at connection by forging, protecting the preparedreinforcement bars and related operations as required to complete the works per direction of Engineer-in-Charge. (The length of the bars in which coupler is to be provided should not be less than 4 metre, no deduction for labour and binding wire saved for not providing lap length shall be made).Coupler for 20 mm diameter reinforcement bar	each	155.70
+5.42.3	Providing and fixing tapered / parallel threaded couplers conforming to IS code on "Reinforcement Couplers for Mechanical Splices of Bars for Concrete Reinforcement - Specification", to reinforcement bars including threading, enlargement at connection by forging, protecting the preparedreinforcement bars and related operations as required to complete the works per direction of Engineer-in-Charge. (The length of the bars in which coupler is to be provided should not be less than 4 metre, no deduction for labour and binding wire saved for not providing lap length shall be made).Coupler for 25 mm diameter reinforcement bar	each	216.70
+5.42.4	Providing and fixing tapered / parallel threaded couplers conforming to IS code on "Reinforcement Couplers for Mechanical Splices of Bars for Concrete Reinforcement - Specification", to reinforcement bars including threading, enlargement at connection by forging, protecting the preparedreinforcement bars and related operations as required to complete the works per direction of Engineer-in-Charge. (The length of the bars in which coupler is to be provided should not be less than 4 metre, no deduction for labour and binding wire saved for not providing lap length shall be made).Coupler for 28 mm diameter reinforcement bar	each	300.75
+5.42.5	Providing and fixing tapered / parallel threaded couplers conforming to IS code on "Reinforcement Couplers for Mechanical Splices of Bars for Concrete Reinforcement - Specification", to reinforcement bars including threading, enlargement at connection by forging, protecting the preparedreinforcement bars and related operations as required to complete the works per direction of Engineer-in-Charge. (The length of the bars in which coupler is to be provided should not be less than 4 metre, no deduction for labour and binding wire saved for not providing lap length shall be made).Coupler for 32 mm diameter reinforcement bar	each	350.90
+5.43.1	Providing and fixing in position Stainless steel Grade 304 plate-1.0 mm thick as per design for expansion joints.200 mm wide.	kg	559.85
+5.43.2	Providing and fixing in position Stainless steel Grade 304 plate-1.0 mm thick as per design for expansion joints.300 mm wide.	kg	815.40
+0002	Hire charges of Concrete Mixer 0.25 to 0.40 cum with Hopper	day	800.00
+0004	Production cost of concrete by batch mix plant	cum	350.00
+0009	Pumping charges of concrete including Hire charges of pump, piping work & accessories etc.	cum	130.00
+0011	Hire charges of Pump set of capacity 4000 litres/hour	day	500.00
+0012	Vibrator (Needle type 40 mm )	day	300.00
+0029	Carriage of concrete by transit mixer	cum per km	30.00
+0101	Bhisti	day	260.00
+0102	Blacksmith 1st class	day	301.00
+0103	Blacksmith 2nd class	day	273.00
+0112	Carpenter 2nd class	day	273.00
+0114	Beldar	day	247.00
+0115	Coolie	day	247.00
+0116	Fitter (grade 1 )	day	301.00
+0123	Mason (brick layer ) 1st class	day	301.00
+0124	Mason (brick layer ) 2nd class	day	273.00
+0126	Mason (for ornamental stone work) 1st class	day	301.00
+0128	Mate	day	260.00
+0155	Mason (average)	day	287.00
+0236	Non-Asbestos multi purpose fibre ( high impact poly propelene reinforced ) cement board 6 mm thick	sqm	182.00
+0295	Stone Aggregate (single size) : 20 mm nominal size	cum	1050.00
+0297	Stone Aggregate (single size) : 10 mm nominal size	cum	1050.00
+0302	Safeda ballies 125 mm diameter	metre	37.00
+0309	Paving bitumen of grade VG-10 of approved quality	tonne	37000.00
+0313	Blown type petroleum bitumen of penetration 85/25 of approved quality	tonne	37000.00
+0314	Bitumen hot sealing compound : grade A	kilogram	26.00
+0316	Bitumen solution primer of approved quality	litre	40.00
+0339	Flame retardant face inslulating, impregnated fibre board 12 mm thick	sqm	350.00
+0367	Portland Cement	tonne	5000.00
+0370	Coal (steam)	quintal	400.00
+0639	Bright finished or black enameled mild steel screws 25 mm	100 nos	30.00
+0768	Cement Concrete Jali 50 mm thick	sqm	210.00
+0769	Cement Concrete Jali 40 mm thick	sqm	180.00
+0770	Cement Concrete Jali 25 mm thick	sqm	145.00
+0982	Coarse sand (zone III)	cum	1120.00
+0983	Fine sand (zone IV)	cum	640.00
+0992	Galvanised steel plain sheets	quintal	4750.00
+1004	Average rate of Mild steel round bars for reinforcements	quintal	4050.00
+1005	Twisted steel / deformed bars	quintal	4500.00
+1015	Mild steel expanded metal 20x60 mm strands	sqm	270.00
+1021	Hard drawn steel wire fabric	sqm	430.00
+1034	Bolts and nuts up to 300 mm in length	quintal	5400.00
+1197	Second class kail wood in scantling	10 cudm	250.00
+1198	Second class kail wood in planks	10 cudm	250.00
+1224	Hard drawn steel wire	quintal	4200.00
+1225	Mild steel flat strap fitting	quintal	3950.00
+2200	Carriage of Steam coal	tonne	100.11
+2202	Carriage of Stone aggregate below 40 mm nominal size	cum	87.60
+2203	Carriage of Coarse sand	cum	87.60
+2204	Carriage of Timber	cum	100.11
+2205	Carriage of Steel	tonne	77.87
+2209	Carriage of Cement	tonne	77.87
+2211	Carriage of Tar bitumen	tonne	87.60
+2261	Carriage of Fine sand (1 part badarpur sand : 2 parts jamuna sand)	cum	87.60
+2273	Carriage of A.C.sheet and accessories	tonne	77.87
+2302	Carriage of G.I.sheet and accessories	tonne	77.87
+2391	Strips-Aluminium fluted 3.15 mm thick and 150 mm wide	metre	228.00
+2392	Strips Aluminium fluted 3.15 mm thick and 200 mm wide	metre	323.00
+2447	Hollock ballies 125 mm diameter	metre	35.00
+7318	Plasticizer / super plasticizer	kilogram	36.50
+7319	Wall form panel 1250x500 mm	each	1050.00
+7320	Tie bolt 12 mm dia 100 mm length	each	38.00
+7321	Tie bolt 12 mm dia 150 mm length	each	50.00
+7322	Tie bolt 20 mm dia 150 mm length	each	62.00
+7323	Tie bolt 20 mm dia 225 mm length	each	80.00
+7324	Spring coil 12 mm	each	16.00
+7325	Plastic cone 12 mm dia	each	18.00
+7326	Corner angle 45x45x5 mm 1.50 m long	each	300.00
+7327	100 mm channel shoulder 2.5 m long	each	1160.00
+7328	Double clip ( bridge clip)	each	97.00
+7329	Single clip	each	77.00
+7330	M.S. tube 40 mm dia	metre	280.00
+7331	Wall form panel 1250x450 mm	each	1040.00
+7332	Corner angle 45x45x5 mm 2.50 m long	each	340.00
+7333	Column clamp 450x1070 mm	each	1220.00
+7334	Prop 2 m ( 2-3.5m)	each	830.00
+7342	Adjustable span ESO+SI (2.35-3.40)	each	1825.00
+7343	Adjustable telescopic prop 3 m (2.02-3.75 m)	each	1150.00
+7344	Beam clamp 300-380 mm (450-1070 mm)	each set	422.00
+7345	Prop 4 m	each	1170.00
+7346	Double coupler	each	55.00
+8659	Water proof ply 12mm thick	sqm	645.00
+9999	Sundries	L.S.	1.49
+2393	1 mm thick Stainless Steel Cover plate grade 304	kg	275.00
+2394	Coupler 16 mm dia	each	67.50
+2395	Coupler 20 mm dia	each	87.75
+2396	Coupler 25 mm dia	each	129.50
+2397	Coupler 28 mm dia	each	191.25
+2398	Coupler 32 mm dia	each	230.50
+7178	Chemical ASTMC-type I	kg	100.00
+7281	Chemical ASTMC-type II	kg	160.00

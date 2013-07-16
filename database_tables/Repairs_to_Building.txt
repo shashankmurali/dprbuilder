@@ -1,0 +1,254 @@
+14.1.1	Repairs to plaster of thickness 12 mm to 20 mm in patches of area 2.5 sq. meters and under, including cutting the patch in proper shape, raking out joints and preparing and plastering the surface of the walls complete, including disposal of rubbish to the dumping ground within 50 metres lead :With cement mortar 1:4 (1 cement : 4 fine sand)	sqm	186.40
+14.1.2	Repairs to plaster of thickness 12 mm to 20 mm in patches of area 2.5 sq. meters and under, including cutting the patch in proper shape, raking out joints and preparing and plastering the surface of the walls complete, including disposal of rubbish to the dumping ground within 50 metres lead :With cement mortar 1:4 (1cement: 4 coarse sand)	sqm	197.35 
+14.2.1	Fixing chowkhats in existing opening including embedding chowkhats in floors or walls cutting masonry for holdfasts, embedding hold fasts in cement concrete blocks of size 15 x 10 x 10 cm with cement concrete 1:3:6 (1 cement : 3 coarse sand : 6 graded stone aggregate 20 mm nominal size), painting two coats of approved wood preservative to sides of chowkhats and making good the damages to walls and floors as required complete, including disposal of rubbish to the dumping ground within 50 meters lead :Door chowkhats	each	600.10
+14.2.2	Fixing chowkhats in existing opening including embedding chowkhats in floors or walls cutting masonry for holdfasts, embedding hold fasts in cement concrete blocks of size 15 x 10 x 10 cm with cement concrete 1:3:6 (1 cement : 3 coarse sand : 6 graded stone aggregate 20 mm nominal size), painting two coats of approved wood preservative to sides of chowkhats and making good the damages to walls and floors as required complete, including disposal of rubbish to the dumping ground within 50 meters lead :Window chowkhats	each	367.05
+14.2.3	Fixing chowkhats in existing opening including embedding chowkhats in floors or walls cutting masonry for holdfasts, embedding hold fasts in cement concrete blocks of size 15 x 10 x 10 cm with cement concrete 1:3:6 (1 cement : 3 coarse sand : 6 graded stone aggregate 20 mm nominal size), painting two coats of approved wood preservative to sides of chowkhats and making good the damages to walls and floors as required complete, including disposal of rubbish to the dumping ground within 50 meters lead :Clerestory window chowkhats	each	267.90
+14.3	Fixing chowkhat in existing opening in brick / RCC wall with dash fasteners/ Chemical fasteners of appropriate size (3 nos on each vertical member of door chowkhat and 2 nos on each vertical member of window chowkhats), including Cost of dash fasteners/ chemical fastener.	each	131.55
+14.4.1	Making the opening in brick masonry including dismantling in floor or walls by cutting masonry and making good the damages to walls, flooring and jambs complete, to match existing surface i/c disposal of mulba/ rubbish to the nearest municipal dumping ground.For door/ window/ clerestory window	sqm	366.65
+14.5.1	Renewing glass panes, with putty and nails wherever necessary including racking out the old putty:Float glass panes of thickness 4 mm	sqm	585.20
+14.5.2	Renewing glass panes, with putty and nails wherever necessary including racking out the old putty:Float glass panes of thickness 5.5 mm	sqm	764.10
+14.6.1	 Renewing glass panes, with wooden fillets wherever necessary:Float glass panes of thickness 4 mm	sqm	724.65
+14.6.2	 Renewing glass panes, with wooden fillets wherever necessary:Float glass panes of thickness 5.5 mm	sqm	903.50
+14.7.1	Renewing glass panes and refixing existing wooden fillets:Float glass panes of thickness 4 mm	sqm 	610.80
+14.7.2	Renewing glass panes and refixing existing wooden fillets:Float glass panes of thickness 5.5 mm	sqm	789.65
+14.8.1	Supplying and fixing new wooden fillets wherever necessary:2nd class teak wood fillets	metre	29.85
+14.8.2	Supplying and fixing new wooden fillets wherever necessary:Hollock wood fillets	metre	24.35
+14.9	Renewal of old putty of glass panes (length)	metre	17.25
+14.10	Refixing old glass panes with putty and nails	sqm	224.45
+14.11	Fixing old glass panes with wooden fillets (excluding cost of fillets)	sqm	190.40
+14.12	Providing and fixing 16 mm M.S. Fan clamps of standard shape and size in existing R.C.C. slab, including cutting chase, anchoring clamp to reinforcement bar, including cleaning, refilling, making good the chase with matching concrete, plastering and painting the exposed portion of the clamps complete.	each	190.10
+14.13	Regrading terracing of mud phaska covered with tiles or brick, in cement by dismantling tiles or bricks, removing mud plaster, preparing the surface of mud phaska to proper slope, relaying mud plaster gobri leaping and tiles or bricks, grouted in cement mortar 1:3 (1 cement : 3 fine sand), including replacing unserviceable tiles or bricks with new ones and disposal of unserviceable material to the dumping ground (the cost of the new tiles or brick excluded) within 50 metres lead.	sqm	206.30
+14.14.1	Replacing sand stone slabs in roofing, laid in cement mortar 1:4 (1 cement : 4 coarse sand), including necessary repairs and cement pointing with same mortar complete, including disposal of rubbish to dumping ground within 50 metres of lead :Red/ white sand stone slabs 30 to 50 mm thick	sqm	459.10
+14.15.1	Renewing wooden battens in roofs, including making good the holes in wall and painting with oil type wood preservative of approved brand and manufacture complete, including removal of rubbish to the dumping ground within 50 metres lead : Sal wood battens	cum	63053.20
+14.16.1.1	Renewing wooden beams in roofs including making good the holes in walls and painting with oil type wood preservative of approved brand and manufacture complete, including removal of rubbish to the dumping ground within 50 metres lead :Not exceeding 4.00 metres in length.Sal wood beams	cum	64870.70
+14.16.1.2	Renewing wooden beams in roofs including making good the holes in walls and painting with oil type wood preservative of approved brand and manufacture complete, including removal of rubbish to the dumping ground within 50 metres lead :Not exceeding 4.00 metres in length.Hollock wood beams	cum	42131.00
+14.16.2.1	Renewing wooden beams in roofs including making good the holes in walls and painting with oil type wood preservative of approved brand and manufacture complete, including removal of rubbish to the dumping ground within 50 metres lead :Above 4.00 metres and upto 5.00 metres length.Sal wood beams	cum	65676.30
+14.16.2.2	Renewing wooden beams in roofs including making good the holes in walls and painting with oil type wood preservative of approved brand and manufacture complete, including removal of rubbish to the dumping ground within 50 metres lead :Above 4.00 metres and upto 5.00 metres length.Hollock wood beams	cum	42912.50
+14.17	Raking out joints in lime or cement mortar and preparing the surface for re-pointing or replastering, including disposal of rubbish to the dumping ground within 50 metres lead.	sqm	19.85
+14.18.1	Flush pointing with cement mortar 1:3 (1 cement : 3 fine sand) mixed with 2% of integral water proofing compound by weight of cement for flat tile bricks on top of mud phaska :With F.P.S. brick tiles	sqm	42.65
+14.18.2	Flush pointing with cement mortar 1:3 (1 cement : 3 fine sand) mixed with 2% of integral water proofing compound by weight of cement for flat tile bricks on top of mud phaska :With modular brick tiles	sqm	43.55
+14.19	Taking out wind ties from roof including cutting out rusted bolts, nuts etc. and removing materials to any distance within compound and stacking.	kg	1.45
+14.20	Fixing of old wind tie with new fittings including painting two or more coats with anticorrosive bitumastic paint of approved brand & manufacturer over and including priming coat of ready mixed zinc chromate yellow primer of approved brand.	metre	55.45
+14.21	Renewing bottom rail and/or top runner of collapsible gate including making good all damages and applying priming coat of zinc chromate yellow primer of approved brand and manufacturer.	kg	120.25
+14.22.1	Renewing Wrought iron or M.S. Wheel or roller of steel door or gate and fitting and fixing the same with necessary clamps, nuts and bolts/welding and erection etc. complete.Wheel 50 mm dia and below	per wheel	111.15
+14.22.2	Renewing Wrought iron or M.S. Wheel or roller of steel door or gate and fitting and fixing the same with necessary clamps, nuts and bolts/welding and erection etc. complete.Wheel above 50 mm dia	per wheel	170.45
+14.23	Pumping out water caused by springs, tidal or river seepage, broken water mains or drains and the like.	kilo litre	72.55
+14.24	Mud mortar made with local clay good earth.	cum	301.10
+14.25	Brick work with common burnt clay bricks of class designation 7.5 in mud mortar	cum	2583.60
+14.26.1.1	Providing and fixing 25 mm thick shutters for cup board etc. :Panelled or panelled & glazed shutters :Superior class teak wood including nickel plated bright finished M.S. piano hinges with necessary screws.	sqm	3069.85
+14.26.1.2	Providing and fixing 25 mm thick shutters for cup board etc. :Panelled or panelled & glazed shutters :Ist class teak wood including nickel plated bright finished M.S. piano hinges with necessary screws.	sqm	2532.10
+14.26.2.1	Providing and fixing 25 mm thick shutters for cup board etc. :Glazed shutters :Superior class teak wood including nickel plated bright finished M.S. piano hinges with necessary screws.	sqm	3193.30
+14.26.2.2	Providing and fixing 25 mm thick shutters for cup board etc. :Glazed shutters :Ist class teak wood including nickel plated bright finished M.S. piano hinges with necessary screws.	sqm	2615.20
+14.27.1	Providing and fixing plain jaffri door and window shutters including bright or/and black enamelled M.S. butt hinges with necessary screws 35x10 mm laths placed 35 mm apart (frames to be paid separately), including fixing 50x12 mm beading complete with :Second class teak wood	sqm 	2714.20
+14.28.1	Providing and fixing curtain rods of 1.25 mm thick brass plates with two brass brackets fixed with brass screws and wooden plugs etc. wherever necessary complete.20 mm diameter.	metre	187.45
+14.28.2	Providing and fixing curtain rods of 1.25 mm thick brass plates with two brass brackets fixed with brass screws and wooden plugs etc. wherever necessary complete.25 mm diameter.	metre	210.65
+14.29	Providing and fixing M.S. round or square bars with M.S. flats at required spacing in wooden frames of windows and clerestory windows.	kg	62.00
+14.30.1	Providing joists (karries) including hoisting, fixing in position and applying wood preservative on unexposed surface etc. complete with :Sal wood	cum	62391.40
+14.30.2	Providing joists (karries) including hoisting, fixing in position and applying wood preservative on unexposed surface etc. complete with :Hollock wood	cum	39881.50
+14.31.1	Providing and fixing bright finished brass single acting spring hinges with necessary brass screws etc. complete :150 mm	each	387.40
+14.31.2	Providing and fixing bright finished brass single acting spring hinges with necessary brass screws etc. complete :125 mm	each	329.30
+14.31.3	Providing and fixing bright finished brass single acting spring hinges with necessary brass screws etc. complete :100 mm	each	209.45
+14.32.1	Providing and fixing bright finished brass double acting spring hinges with necessary brass screws etc. complete :150 mm	each	619.70
+14.32.2	Providing and fixing bright finished brass double acting spring hinges with necessary brass screws etc. complete :125 mm	each	445.45
+14.32.3	Providing and fixing bright finished brass double acting spring hinges with necessary brass screws etc. complete :100 mm	each	383.65
+14.33.1	Providing and fixing bright finished brass flush bolts with necessary brass screws etc. complete :250 mm	each	176.85
+14.33.2	Providing and fixing bright finished brass flush bolts with necessary brass screws etc. complete :150 mm	each	152.40
+14.33.3	Providing and fixing bright finished brass flush bolts with necessary brass screws etc. complete :100 mm	each	111.75
+14.34	Providing and fixing 150 mm bright finished floor brass door stopper with rubber cushion, necessary brass screws etc. to suit shutter thickness complete	each	197.30
+14.35.1	Providing and fixing bright finished brass hard drawn hooks and eyes :300 mm	each	83.55
+14.35.2	Providing and fixing bright finished brass hard drawn hooks and eyes :250 mm	each 	80.65
+14.35.3	Providing and fixing bright finished brass hard drawn hooks and eyes :200 mm	each	74.85
+14.35.4	Providing and fixing bright finished brass hard drawn hooks and eyes :150 mm	each	71.95
+14.35.5	Providing and fixing bright finished brass hard drawn hooks and eyes :100 mm	each	60.35
+14.36	Providing and fixing bright finished brass fan light pivot with necessary brass screws etc. complete.	each	32.45
+14.37	Providing and fixing 300 mm long bright finished brass chain with hook for fan light including necessary brass screws etc. complete.	each	42.90
+14.38	Providing and fixing bright finished brass quadrant stay 300 mm long with necessary brass screws etc. complete.	each	147.45
+14.39	Providing and fixing bright finished brass helical door spring (superior quality).	each	379.65
+14.40.1	Providing and fixing chromium plated brass butt hinges with necessary chromium plated brass screws etc. complete.125x70x4 mm (ordinary type)	each	129.20
+14.40.2	Providing and fixing chromium plated brass butt hinges with necessary chromium plated brass screws etc. complete.100x70x4 mm (ordinary type)	each	104.45
+14.40.3	Providing and fixing chromium plated brass butt hinges with necessary chromium plated brass screws etc. complete.75x65x4 mm (heavy type)	each	128.90
+14.40.4	Providing and fixing chromium plated brass butt hinges with necessary chromium plated brass screws etc. complete.75x40x2.5 mm (ordinary type)	each 	67.90
+14.40.5	Providing and fixing chromium plated brass butt hinges with necessary chromium plated brass screws etc. complete.50x40x2.5 mm (ordinary type)	each	29.10
+14.41	Providing and fixing 85x42 mm chromium plated brass pull bolt lock with necessary chromium plated brass screws, nuts, bolts and washers etc. complete.	each	177.45
+14.42.1	White washing with lime to give an even shade :Old work (two or more coats)	sq	7.05
+14.42.2	White washing with lime to give an even shade :Old work (one or more coats)	sqm	4.35
+14.43	Removing white or colour wash by scrapping and sand papering and preparing the surface smooth including necessary repairs to scratches etc. complete	sqm	5.70
+14.44	Distempering with dry distemper of approved brand and manufacture (one or more coats) and of required shade on old work to give aneven shade.	sqm	21.25
+14.45.1	Distempering with oil bound washable distemper of approved brand and manufacture to give an even shade Old work (one or more coats)	sqm	23.40
+14.46	Removing dry or oil bound distemper, water proofing cement paint and the like by scrapping, sand papering and preparing the surface smooth including necessary repairs to scratches etc. complete.	sqm	7.50
+14.47.1	Painting on G.S. sheet with synthetic enamel paint of approved brand and manufacture of required colour to give an even shade :Old work (one or more coats)	sqm	30.30
+14.48.1	Painting (two or more coats) on rain water, soil, waste and vent pipes and fittings with black anticorrosive bitumastic paint of approved brand and manufacture over and including a priming coat of ready mixed zinc chromate yellow primer on new work :75 mm diameter pipes	metre	19.10
+14.49.1	Painting (one or more coats) on rain water, soil, waste and vent pipes and fittings with black anticorrosive bitumastic paint of approved brand and manufacture on old work :75 mm diameter pipes	metre	9.30
+14.49.2	Painting (one or more coats) on rain water, soil, waste and vent pipes and fittings with black anticorrosive bitumastic paint of approved brand and manufacture on old work :100 mm diameter pipes	metre	12.20
+14.49.3	Painting (one or more coats) on rain water, soil, waste and vent pipes and fittings with black anticorrosive bitumastic paint of approved brand and manufacture on old work :150 mm diameter pipes	metre	17.40
+14.50.1	Painting (two or more coats) on rain water, soil, waste and vent pipes and fittings with aluminium paint of approved brand and manufacture over a priming coat of ready mixed zinc chromate yellow primer on new work :75 mm diameter pipes	metre	19.90
+14.50.2	Painting (two or more coats) on rain water, soil, waste and vent pipes and fittings with aluminium paint of approved brand and manufacture over a priming coat of ready mixed zinc chromate yellow primer on new work :100 mm diameter pipes	metre	28.25
+14.50.3	Painting (two or more coats) on rain water, soil, waste and vent pipes and fittings with aluminium paint of approved brand and manufacture over a priming coat of ready mixed zinc chromate yellow primer on new work :150 mm diameter pipes	metre	42.1014.51.1 Painting (one or more coats) on rain water, soil, waste and vent pipes and fittings with synthetic enamel paint of approved brand and manufacture and required colour on old work :75 mm diameter pipes	metre	9.75
+14.51.2	Painting (one or more coats) on rain water, soil, waste and vent pipes and fittings with synthetic enamel paint of approved brand and manufacture and required colour on old work :100 mm diameter pipes	metre 	12.55
+14.51.3	Painting (one or more coats) on rain water, soil, waste and vent pipes and fittings with synthetic enamel paint of approved brand and manufacture and required colour on old work :150 mm diameter pipes	metre	17.85
+14.52.1	Painting with oil type wood preservative of approved brand and manufacture :Old work (one or more coats)	sqm	14.25
+14.53.1	Wall painting with plastic emulsion paint of approved brand and manufacture to give an even shade :One or more coats on old work	sqm	39.30
+14.54.1		Painting with synthetic enamel paint of approved brand and manufacture of required colour to give an even shade :One or more coats on old work	sqm	35.20
+14.55.1	Painting with aluminium paint of approved brand and manufacture to give an even shade :One or more coats on old work	sqm	30.75
+14.56.1	Painting with acid proof paint of approved brand and manufacture of required colour to give an even shade :One or more coats on old work	sqm	33.15
+14.57.1	Painting with black anti-corrosive bitumastic paint of approved brand and manufacture to give an even shade :One or more coats on old work	sqm	29.80
+14.58.1	French spirit polishing :One or more coats on old work	sqm	69.80
+14.59.1	Polishing on wood work with ready made wax polish of approved  brand and manufacture Old work	sqm	30.80
+14.60	Re-lettering with black Japan paint of approved brand and manufacture.	Per letter per cm height	1.10
+14.61	Painting (one or more coats) with black Japan paint of approved brand and manufacture to give an even shade.	sqm	31.95
+14.62.1	Providing and fixing C.P. brass chain and rubber plug complete for sink or wash basin :32 mm dia	each	44.15
+14.62.2	Providing and fixing C.P. brass chain and rubber plug complete for sink or wash basin :40 mm dia	each	45.30
+14.63.1	Distempering with 1st quality acrylic washable distemper (ready made) of approved manufacturer and of required shade and colour complete. as per manufacturer's specification.One or more coats on old work	sqm	21.35
+14.64.1	Finishing walls with water proofing cement paint of required shade :Old work (one or more coats applied @ 2.20 kg/10 sqm) over priming coat of primer applied @ 0.80 litrs/10 sqm complete including cost of Priming coat.	sqm	41.65
+14.64.2	Finishing walls with water proofing cement paint of required shade :Old work (one or more coats @ 2.20 kg/10 sqm) complete.	sqm	28.40
+14.65.1	Finishing walls with textured exterior paint of required shade :Old work (Two or more coats on existing cement paint surface applied @ 3.28 ltr/10 sqm.	sqm	99.50
+14.65.2	Finishing walls with textured exterior paint of required shade :Old work (One or more coats) applied @ 1.82 ltr/10 sqm.	sqm	59.90
+14.66.1	Finishing walls with Acrylic Smooth exterior paint of required shade :Old work (Two or more coat applied @ 1.67 ltr/ 10 sqm) on existing cement paint surface	sqm	48.30
+14.66.2	Finishing walls with Acrylic Smooth exterior paint of required shade :Old work (One or more coat applied @ 0.90 ltr/10 sqm).	sqm	31.65
+14.67.1	Finishing walls with Premium Acrylic Smooth exterior paint with Silicone additives of required shade.Old work (Two or more coats applied @ 1.43 ltr/ 10 sqm) over existing cement paint surface	sqm	62.20
+14.67.2	Finishing walls with Premium Acrylic Smooth exterior paint with Silicone additives of required shade.Old work (one or more coats applied @ 0.83 ltr/10 sqm).	sqm	40.30
+14.69.1	Varnishing with varnish of approved brand and manufacture:One or more coats with copal varnish	sqm	33.85
+14.69.2	Varnishing with varnish of approved brand and manufacture:One or more coats with spar varnish	sqm	34.40
+14.70	Melamine polishing on wood work (one or more coat).	sqm	64.20
+14.71	Varnishing with flatting varnish of approved brand and manufacture one or more coats on old work.	sqm	32.00
+14.72	Providing and fixing double scaffolding system (cup lock type) on the exterior side, up to seven story height made with 40 mm dia M.S. tube 1.5 m centre to centre, horizontal & vertical tubes joining with cup & lock system with M.S. tubes, M.S. tube challies, M.S. clamps and M.S. staircase system in the scaffolding for working platform etc. and maintaining it in a serviceable condition for the required duration as approved and removing it there after .The scaffolding system shall be stiffened with bracings, runners, connection with the building etc wherever required for inspection of work at required locations with essential safety features for the workmen etc. complete as per directions and approval of Engineerin- charge .The elevational area of the scaffolding shall be measured for payment purpose .The payment will be made once irrespective of duration of scaffolding.	sqm	127.10
+14.73	Providing and fixing bright finished brass casement window fasteners or peg stays to windows/ ventilators with necessary welding andmachine screws etc. complete.	kg 	373.15
+14.74	Providing and fixing 14 mm bright finished brass spring catch to steel centre hung ventilators with necessary welding and machine screws etc. complete.	each	42.10
+0006	Hire charges of spraying machine including electric charges	day	250.00
+0011	Hire charges of Pump set of capacity 4000 litres/hour	day	500.00
+0100	Bandhani	day	260.00
+0101	Bhisti	day	260.00
+0102	Blacksmith 1st class	day	301.00
+0103	Blacksmith 2nd class	day	273.00
+0111	Carpenter 1st class	day	301.00
+0112	Carpenter 2nd class	day	273.00
+0114	Beldar 	day	247.00
+0115	Coolie	day	247.00
+0117	Assistant Fitter or 2nd class fitter	day	273.00
+0119	Glazier	day	273.00
+0123	Mason (brick layer ) 1st class	day	301.00
+0124	Mason (brick layer ) 2nd class	day	273.00
+0128	Mate	day	260.00
+0130	Mistry	day	301.00
+0131	Painter	day	273.00
+0141	White Washer 	day	260.00
+0155	Mason (average)	day	287.00
+0156	Carpenter (average)	day	287.00
+0295	Stone Aggregate (single size) : 20 mm nominal size	cum	1050.00
+0297	Stone Aggregate (single size) : 10 mm nominal size	cum	1050.00
+0302	Safeda ballies 125 mm diameter	metre	37.00
+0308	Bhusa	quintal 	375.00
+0367	Portland Cement	tonne	5000.00
+0389	Brass single acting spring hinges 150 mm	each	300.00
+0390	Brass single acting spring hinges 125 mm	each	250.00
+0391	Brass single acting spring hinges 100 mm	each 	150.00
+0392	Brass double acting spring hinges 150 mm 	each	500.00
+0393	Brass double acting spring hinges 125 mm	each	350.00
+0394	Brass double acting spring hinges 100 mm	each	300.00
+0404	Brass flush bolt 250 mm	each 	140.00
+0405	Brass flush bolt 150 mm	each	120.00
+0406	Brass flush bolt 100 mm	each	85.00
+0417	Brass 150 mm floor door stopper (0.357 kg)	each	160.00
+0418	Brass hard drawn hooks and eyes 300 mm	10 nos 	700.00
+0419	Brass hard drawn hooks and eyes 250 mm 	10 nos 	675.00
+0420	Brass hard drawn hooks and eyes 200 mm	10 nos	625.00
+0421	Brass hard drawn hooks and eyes 150 mm	10 nos	600.00
+0422	Brass hard drawn hooks and eyes 100 mm	10 nos	500.00
+0423	Brass casement window fastener	each	45.00
+0427	Brass quadrant stays 300 mm	each	120.00
+0428	Brass fanlight catch	10 nos	170.00
+0429	Brass fanlight pivot	10 nos	190.00
+0430	Brass chain with hook for fan light catch	each	30.00
+0442	Brass helical spring 150 mm	each	300.00
+0444	Brass curtain rod 20 mm dia 1.25 mm thick	metre	100.00
+0445	Brass curtain rod 25 mm dia 1.25 mm thick	metre	120.00
+0446	Brass brackets (curtain rods) 20 mm	each	40.00
+0449	Brass screws 50 mm	100 nos	200.00
+0450	Brass screws 40 mm	100 nos	160.00
+0452	Brass screws 25 mm	100 nos	95.00
+0524	Chromium plated Brass butt hinges (heavy) type 75x65x 4 mm (200gms)	10 nos	950.00
+0525	Chromium plated Brass butt hinges (light/ordinary) type 125x 70x4 mm	10 nos	810.00
+0526	Chromium plated Brass butt hinges (light/ordinary) type 100x 70x4 mm	10 nos	675.00
+0527	Chromium plated Brass butt hinges (light/ordinary) type 75x 40x2.5 mm	10 nos	425.00
+0528	Chromium plated Brass butt hinges (light/ordinary) type 50x40x2.5 mm	10 nos	185.00
+0585	Chromium plated Brass screws 50 mm	100 nos	230.00
+0586	Chromium plated Brass screws 40 mm	100 nos	190.00
+0587	Chromium plated Brass screws 30 mm	100 nos	150.00
+0589	Chromium plated Brass screws 20 mm	100 nos	100.00
+0595	Bright finished or black enameled mild steel butt hinges 100x58x1.90 mm	10 nos	80.00
+0597	Bright finished or black enameled mild steel butt hinges 50x37x1.50 mm	10 nos	45.00
+0608	Nickel plated bright finished mild steel piano hinges 1 mm thick 25 mm wide	metre	35.00
+0637	Bright finished or black enameled mild steel screws 40 mm	100 nos	50.00
+0639	Bright finished or black enameled mild steel screws 25 mm	100 nos	30.00
+0640	Bright finished or black enameled mild steel screws 20 mm	100 nos	25.00
+0761	Fuel wood	quintal	450.00
+0771	Kerosene oil	litre	30.00
+0775	Dehradun white lime 	quintal	410.00
+0811 	Mud (dry)	cum	50.00
+0815	Dry distemper	kilogram	35.00
+0816	Oil bound washable distemper/ Acrylic distemper	kilogram 	42.00
+0826	Aluminium paint	litre	115.00
+0827	Acid proof paint (chocolate or black)	litre	105.00
+0828	Anticorrosive bituminous paint (black)	litre	85.00
+0829	Black Japan	litre	90.00
+0833	Synthetic enamel paint in black or chocolate shade	litre	130.00
+0835	Plastic emulsion paint	litre	165.00
+0845	Roofing paint for iron sheets in red colour	litre	110.00
+0851	Water proofing cement paint	kilogram	40.00
+0855	Wax polish (ready made)	kilogram	175.00
+0856	Ordinary varnish	litre 	65.00
+0857	Superior copal varnish	litre	125.00
+0858	Superior spar varnish	litre	125.00
+0859	Oil type wood preservative	litre	70.00
+0863	Putty for wood work	kilogram	30.00
+0982	Coarse sand (zone III)	cum	1120.00
+0999	Shellac	kilogram	205.00
+1000	Spirit	litre	65.00
+1003	Mild steel round bar above 12 mm dia	quintal	4000.00
+1007	Structural steel such as tees, angles channels and R.S. joists	quintal	4250.00
+1008	Flats up to 10 mm in thickness	quintal	4200.00
+1023	Galvanised steel J or L hooks 8 mm dia	10 nos	90.00
+1034	Bolts and nuts up to 300 mm in length	quintal	5400.00
+1174	Red sand stone slab 45 mm to 50 mm thick (un-dressed)	sqm	165.00
+1186	Superior class teak wood such as Dandeli, Balarshah or Malabar in planks	10 cudm	1050.00
+1188	First class teak wood in planks	10 cudm	800.00
+1189 	Second class teak wood in scantling	10 cudm	640.00
+1190 	Second class teak wood in planks	10 cudm	720.00
+1194	Second class deodar wood in planks	10 cudm	480.00
+1196 	First class kail wood in planks	10 cudm	300.00
+1199 	Sal wood in scantling	10 cudm	500.00
+1208	Bitumen washer	100 nos	25.00
+1209	G.I. plain washer thick	100 nos	32.00
+1213	Water proofing materials	kilogram	25.00
+1215	Welding by electric plant	cm	1.50
+1314	C.P.brass chain with 32 mm dia rubber plug	each	26.00
+1315	C.P.brass chain with 40 mm dia rubber plug	each	27.00
+2201	Carriage of Bricks	1000 nos	233.60
+2202	Carriage of Stone aggregate below 40 mm nominal size	cum	87.60
+2203	Carriage of Coarse sand	cum	87.60
+2204	Carriage of Timber	cum	100.11
+2205	Carriage of Steel	tonne	77.87
+2209	Carriage of Cement 	tonne	77.87
+2216	Carriage of Stone blocks white & red sand stone & kota stone slab	tonne	77.87
+2264	Carriage of Rubbish	cum	87.60
+2406	Float glass sheet of nominal thickness 4 mm (weight not less than 10kg/sqm)	sqm	310.00
+2407	Float glass sheet of nominal thickness 5.5 mm (weight not less than 13.50 kg/sqm)	sqm	450.00
+2466	Hollock wood in scantling	10 cudm	310.00
+2467	Chromium plated Brass pull bolt lock (locking bolt) of size 85 mmx 42 mm with screws, bolts, nuts and washers complete	each	145.00
+2602	Common burnt clay F.P.S. (non modular) bricks class designation 7.5	1000 nos	2,900.00
+4009	Mild steel tubes hot finished welded type	kilogram	48.00
+4202	Red oxide Zinc chromate primer	litre	68.00
+7019	Dash fastener/Chemical Fastener	each	13.00
+7241	Melamine polish	litre	250.00
+7340	Stainless steel pin	kg	180.00
+7346 	Double coupler 	each 	55.00
+7387	Spigot for standard Jointing	Kilogram 	45.00
+7397	Base Jack	each	180.00
+7398	Challies (M.S. tube)	each 	800.00
+7399	Cup locks	each	75.00
+7442	Wheel 75 mm dia 40 mm wide	each	60.00
+8505	Acrylic exterior paint	litre	130.00
+8506	Premium Acrylic exterior paint	litre	230.00
+8507	Textured exterior paint	litre	198.00
+8508	Primer for cement paint	litre 	63.00
+9999	Sundries	L.S.	1.49

@@ -1,0 +1,35 @@
+3.1	Cement mortar 1:1 (1 cement : 1 fine sand)	cum	5,961.50
+3.2	Cement mortar 1:2 (1 cement : 2 fine sand). 	cum 	4,407.85
+3.3	Cement mortar 1:3 (1 cement : 3 fine sand). 	cum	3,631.95
+3.4	Cement mortar 1:4 (1 cement : 4 fine sand). 	cum	2,971.80
+3.5	Cement mortar 1:5 (1 cement : 5 fine sand). 	cum 	2,616.35
+3.6	Cement mortar 1:6 (1 cement : 6 fine sand). 	cum 	2,311.70
+3.7	Cement mortar 1:2 (1 cement : 2 coarse sand). 	cum 	4,863.85
+3.8	Cement mortar 1:3 (1 cement : 3 coarse sand). 	cum 	4,145.55
+3.9	Cement mortar 1:4 (1 cement : 4 coarse sand). 	cum 	3,485.40
+3.10	Cement mortar 1:5 (1 cement : 5 coarse sand). 	cum 	3,129.95
+3.11	Cement mortar 1:6 (1 cement : 6 coarse sand). 	cum 	2,825.30
+3.12	Cement mortar 1:2 (1 cement : 2 stone dust). 	cum 	4,678.60
+3.13	Cement mortar 1:2 (1 cement : 2 marble dust). 	cum 	4,749.85
+3.14	Cement mortar 1:5 (1 cement : 5 marble dust). 	cum 	3,001.55
+3.15	White cement mortar 1:2 (1 white cement : 2 marble dust).	cum	9,509.85
+3.16	White cement mortar 1:3 (1 white cement : 3 marble dust).	cum	7,587.15
+3.17	White cement mortar 1:5 (1 white cement : 5 marble dust).	cum	5,171.55
+3.18	Mud mortar	cum	301.10
+3.19	Mortar in lime , surkhi ( 50% red and 50% light yellow) and marble dust 1:1.5:0.5	cum	2,111.30
+0101	Bhisti	day	260.00
+0114	Beldar	day	247.00
+0367	Portland Cement	tonne	5,000.00
+0368	White cement	tonne	12,000.00
+0784	Marble dust/powder	cum	1,000.00
+0811	Mud(dry)	cum	50.00
+0982	Coarse sand(zone III)	cum	1,120.00
+0983	Fine sand(zone IV)	cum	640.00
+1159	Stone dust	cum	925.00
+2203	Carriage of Coarse sand	cum	87.60
+2209	Carriage of Cement	tonne	77.87
+2261	Carriage of Fine sand(1 part badarpur sand : 2 parts jamuna sand)	cum	87.60
+2267	Carriage of Stone dust	cum	87.60
+2268	Carriage of Marble dust and marble chips	cum	87.60
+9999	Sundries	L.S.	1.49
+1182	Surkhi	cum	700.00

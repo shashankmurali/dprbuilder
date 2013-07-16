@@ -1,0 +1,687 @@
+0010	Hire charges of Derrick monkey rope	day	775.00
+0114	Beldar	day	247.00
+0115	Coolie	day	247.00
+0116	Fitter (grade 1 )	day	301.00
+0117	Assistant Fitter or 2nd class fitter	day	273.00
+0123	Mason (brick layer ) 1st class	day	301.00
+0124	Mason (brick layer ) 2nd class	day	273.00
+0761	Fuel wood	quintal	450.00
+0771	Kerosene oil	litre	30.00
+1301	Bleaching powder 1304 Surface box for stop cock	each	100.00
+1305	Surface box for sluice valve	each	185.00
+1307	Surface box for water meter	each	205.00
+1339	Brass bib-cock 15 mm dia	each	165.00
+1340	Brass bib-cock 20 mm dia	each	215.00
+1342	Brass stop-cock 15 mm dia	each	165.00
+1343	Brass stop-cock 20 mm dia	each	215.00
+1360	C.I.mouth, brass ferrule 15 mm dia	each	115.00
+1361	C.I.mouth, brass ferrule 20 mm dia	each	145.00
+1362	C.I.mouth, brass ferrule 25 mm dia	each	205.00
+1373	Rubber insertions for 80 mm dia pipe joints	each	11.00
+1374	Rubber insertions for 100 mm dia pipe joints	each	14.00
+1375	Rubber insertions for 125 mm dia pipe joints	each	15.00
+1376	Rubber insertions for 150 mm dia pipe joints	each	17.00
+1377	Rubber insertions for 200 mm dia pipe joints	each	22.00
+1378	Rubber insertions for 250 mm dia pipe joints	each	32.00
+1379	Rubber insertions for 300 mm dia pipe joints	each	40.00
+1380	Rubber insertions for 350 mm dia pipe joints	each	45.00
+1381	Rubber insertions for 400 mm dia pipe joints	each	67.00
+1382	Rubber insertions for 450 mm dia pipe joints	each	84.00
+1383	Rubber insertions for 500 mm dia pipe joints	each	106.00
+1384	Rubber insertions for 600 mm dia pipe joints	each	118.00
+1397	Pig lead 1464 S & S.C.I.standard specials up to 300 mm dia(heavy class)	quintal	3450.00
+1466	S & S.C.I.standard specials over 300 mm dia (heavy class)	quintal	3550.00
+1468	Flanged C.I. standard specials up to 300 mm dia (heavy class)	quintal	5300.00
+1470	Flanged C.I. standard specials over 300 mm dia (heavy class)	quintal	5600.00
+1472	Casing pipe 100 mm dia	metre	335.00
+1545	G.I. pipes 15 mm dia	metre	81.00
+1546	G.I. pipes 20 mm dia	metre	97.00
+1547	G.I. pipes 25 mm dia	metre	134.00
+1548	G.I. pipes 32 mm dia	metre	167.00
+1549	G.I. pipes 40 mm dia	metre	202.00
+1550	G.I. pipes 50 mm dia	metre	254.00
+1551	G.I. pipes 65 mm dia	metre	325.00
+1552	G.I. pipes 80 mm dia	metre	426.00
+1555	G.I. back (jam) nuts 25 mm dia	each	8.00
+1559	G.I. back (jam) nuts 65 mm dia	each	18.00
+1608	G.I. tees (equal) 25 mm	each	42.00
+1612	G.I. tees (equal) 65 mm	each	270.00
+1641	G.I. Union 15 mm nominal bore	each	40.00
+1642	G.I. Union 20 mm nominal bore	each	60.00
+1643	G.I. Union 25 mm nominal bore	each	70.00
+1644	G.I. Union 32 mm nominal bore	each	100.00
+1645	G.I. Union 40 mm nominal bore	each	135.00
+1646	G.I. Union 50 mm nominal bore	each	180.00
+1647	G.I. Union 65 mm nominal bore	each	390.00
+1648	G.I. Union 80 mm nominal bore	each	480.00
+1649	Polyethylene water storage tank with cover and suitable locking arrangement	per litre	4.45
+1687	Unplasticised P.V.C. connection pipe with brass union 30 cm long 15 mm bore	each	26.00
+1688	Unplasticised P.V.C. connection pipe with brass union 30 cm long 20 mm bore	each	33.00
+1689	Unplasticised P.V.C. connection pipe with brass union 45 cm long 15 mm bore	each	33.00
+1689	Unplasticised P.V.C. connection pipe with brass union 45 cm long 20 mm bore	each	43.00
+1693	S.C.I. hand pump	each	550.00
+1878	Shower rose C.P.brass for 15 to 20 mm inlet 100 mm dia	each	40.00
+1879	Shower rose C.P.brass for 15 to 20 mm inlet 150 mm dia	each	55.00
+1881	Spun yarn	kilogram	40.00
+1882	Strainer brass 40 mm dia 1.5 metre long	each	495.00
+1922	H.P. or L.P. ball valve with polythene floats: 15 mm dia	each	190.00
+1923	H.P. or L.P. ball valve with polythene floats: 20 mm dia	each	270.00
+1924	H.P. or L.P. ball valve with polythene floats: 25 mm dia	each	315.00
+1927	Brass full way valve with C.I. wheel (screwed end) 25 mm dia	each	305.00
+1928	Brass full way valve with C.I. wheel (screwed end) 32 mm dia	each	370.00
+1929	Brass full way valve with C.I. wheel (screwed end) 40 mm dia	each	450.00
+1930	Brass full way valve with C.I. wheel (screwed end) 50 mm dia	each	650.00
+1931	Brass full way valve with C.I. wheel (screwed end) 65 mm dia	each	900.00
+1932	Brass full way valve with C.I. wheel (screwed end) 80 mm dia	each	1550.00
+1933	Gunmetal non-return valve-horizontal (screwed end) 25 mm dia	each	310.00
+1934	Gunmetal non-return valve-horizontal (screwed end) 32 mm dia	each	400.00
+1935	Gunmetal non-return valve-horizontal (screwed end) 40 mm dia	each	510.00
+1936	Gunmetal non-return valve-horizontal (screwed end) 50 mm dia	each	780.00
+1937	Gunmetal non-return valve-horizontal (screwed end) 65 mm dia	each	1420.00
+1938	Gunmetal non-return valve-horizontal (screwed end) 80 mm dia	each	2030.00
+1940	C.I.sluice valve (with caps) class I : 100 mm dia	each	2300.00
+1941	C.I.sluice valve (with caps) class I : 125 mm dia	each	2600.00
+1942	C.I.sluice valve (with caps) class I : 150 mm dia	each	3410.00
+1943	C.I.sluice valve (with caps) class I : 200 mm dia	each	6550.00
+1944	C.I.sluice valve (with caps) class I : 250 mm dia	each	9550.00
+1945	C.I.sluice valve (with caps) class I : 300 mm dia	each	13500.00
+1956	Bolts and nuts 16 mm dia 60 mm long	each	10.00
+1957	Bolts and nuts 16 mm dia 65 mm long	each	11.00
+1958	Bolts and nuts 20 mm dia 65 mm long	each	13.00
+1959	Bolts and nuts 20 mm dia 70 mm long	each	13.00
+1960	Bolts and nuts 20 mm dia 75 mm long	each	14.00
+1961	Bolts and nuts 20 mm dia 80 mm long	each	15.00
+1962	Bolts and nuts 24 mm dia 85 mm long	each	27.00
+1963	Bolts and nuts 24 mm dia 90 mm long	each	29.00
+1964	Bolts and nuts 27 mm dia 100 mm long	each	35.00
+2271	Carriage of G.I. pipes below 100 mm dia	tonne	77.87
+2309	Carriage of Cast iron fittings	tonne	77.87
+2319	Carriage of Spun iron S & S pipes 100 mm dia	100 metre	191.48
+2320	Carriage of Spun iron S & S pipes 125 mm dia	100 metre	255.77
+2321	Carriage of Spun iron S & S pipes 150 mm dia	100 metre	319.12
+2322	Carriage of Spun iron S & S pipes 200 mm dia	100 metre	519.11
+2323	Carriage of Spun iron S & S pipes 250 mm dia	100 metre	737.68
+2324	Carriage of Spun iron S & S pipes 300 mm dia	100 metre	911.78
+2325	Carriage of Spun iron S & S pipes 350 mm dia	100 metre	1276.50
+2326	Carriage of Spun iron S & S pipes 400 mm dia	100 metre	1740.68
+2327	Carriage of Spun iron S & S pipes 450 mm dia	100 metre	2127.50
+2328	Carriage of Spun iron S & S pipes 500 mm dia	100 metre	2127.50
+2329	Carriage of Spun iron S & S pipes 600mm dia	100 metre	3191.25
+2330	Carriage of C.I. pipes 500 mm dia	100 metre	2127.50
+2331	Carriage of R.C.C. pipes 900 mm dia	100 metre	4786.87
+2332	Carriage of R.C.C. pipes 1000 mm dia	100 metre	6382.50
+2333	Carriage of R.C.C. pipes 1100 mm dia	100 metre	6382.50
+2334	Carriage of R.C.C. pipes 1200 mm dia	100 metre	6382.50
+2341	Carriage of Pig lead 2343	tonne	77.87
+2343	Carriage of Ductile iron pipes (k7) 100 mm dia	100 metre	191.48
+2344	Carriage of Cast iron pipes 150 mm dia	100 metre	319.12
+2345	Carriage of Cast iron pipes 200 mm dia	100 metre	519.11
+2346	Carriage of Cast iron pipes 250 mm dia	100 metre	737.68
+2347	Carriage of Cast iron pipes 300 mm dia	100 metre	911.78
+2348	Carriage of Cast iron pipes 350 mm dia	100 metre	1276.50
+2349	Carriage of Cast iron pipes 400 mm dia	100 metre	1740.68
+2350	Carriage of Cast iron pipes 450 mm dia	100 metre	2127.50
+2351	Carriage of Cast iron pipes 500 mm dia	100 metre	2127.50
+2352	Carriage of Cast iron pipes 600 mm dia	100 metre	3191.25
+2353	Carriage of Cast iron pipes 700 mm dia	100 metre	3191.25
+2355	Carriage of Cast iron pipes 800 mm dia	100 metre	3191.25
+2356	Carriage of Cast iron pipes 900 mm dia	100 metre	4786.87
+2357	Carriage of Cast iron pipes 1000 mm dia	100 metre	6382.50
+3080	Gunmetal non-return valve-vertical (screwed end) 25 mm dia	each	320.00
+3084	Gunmetal non-return valve-vertical (screwed end) 32 mm dia	each	490.00
+3088	Gunmetal non-return valve-vertical (screwed end) 40 mm dia	each	680.00
+3092	Gunmetal non-return valve-vertical (screwed end) 50 mm dia	each	930.00
+3096	Gunmetal non-return valve-vertical (screwed end) 65 mm dia	each	1650.00
+3300	Gunmetal non-return valve-vertical (screwed end) 80 mm dia	each	2630.00
+3311	C.I.sluice valve (with caps) class II : 100 mm dia	each	2650.00
+3314	C.I.sluice valve (with caps) class II : 125 mm dia	each	3200.00
+3317	C.I.sluice valve (with caps) class II : 150 mm dia	each	4000.00
+3320	C.I.sluice valve (with caps) class II : 200 mm dia	each	9100.00
+3321	C.I.sluice valve (with caps) class II : 250 mm dia	each	13500.00
+3326	C.I.sluice valve (with caps) class II : 300 mm dia	each	17000.00
+7257	C.P. Brass bibcock 15 mm	each	325.00
+7258	C.P. Brass long nose bibcock 15 mm	each	330.00
+7259	C.P Brass long body bibcock 15 mm	each	350.00
+7260	C.P. Brass stop cock (concealed) 15 mm	each	350.00
+7261	C.P. Brass angle valve 15 mm	each	370.00
+7400	15 mm PTMT bib cock	each	100.00
+7401	15 mm PTMT bib cock with flange (fancy)	each	140.00
+7402	15 mm PTMT bib cock long body with flange	each	160.00
+7403	15 mm dia PTMT stop cock(male thread)	each	100.00
+7405	20 mm dia. PTMT stop cock	each	130.00
+7406	PTMT pillar cock	each	160.00
+7407	PTMT push cock 15 mm dia.	each	90.00
+7408	PTMT push cock 12 mm dia. 20 mm BSP	each	80.00
+7409	PTMT grating 100 mm dia.	each	31.00
+7410	PTMT Pillar cock (fancy) 15mm foam flow	each	225.00
+7411	125 mm grating with waste hole	each	37.00
+7412	Rectangular type with openable circular lid 150 mm size 18 mm high with 100 mm dia. (110 gm)	each	101.00
+7415	Double acting air valve 50 mm	each	3370.00
+7416	Double acting air valve 80 mm	each	4930.00
+7417	Double acting air valve 100 mm	each	6400.00
+7418	Water meter (including testing charges) 80 mm	each	2030.00
+7419	Water meter (including testing charges) 100 mm	each	3150.00
+7420	Water meter (including testing charges) 150 mm	each	4560.00
+7421	Water meter (including testing charges) 200 mm	each	5100.00
+7422	Dirt box strainer 80 mm		each	2620.00
+7423	Dirt box strainer 100 mm	each	4180.00
+7424	Dirt box strainer 150 mm	each	5420.00
+7425	Dirt box strainer 200 mm	each	7550.00
+7495	PTMT - Ball Cock 15 mm Complete with Epoxy Coated Aluminium Rod & H.D. Ball	each	134.00
+7496	PTMT - Ball Cock 20 mm Complete with Epoxy Coated Aluminium Rod & H.D. Ball	each	195.00
+7497	PTMT - Ball Cock 25 mm Complete with Epoxy Coated Aluminium Rod & H.D. Ball	each	420.00
+7498	PTMT - Ball Cock 40 mm Complete with Epoxy Coated Aluminium Rod & H.D. Ball	each	780.00
+7499	PTMT - Ball Cock 50 mm Complete with Epoxy Coated Aluminium Rod & H.D. Ball	each	1150.00
+7500	PTMT- Angle Stop cock with Flange 15 mm	each	130.00
+7501	PTMT - Swiveling shower 15 mm	each	87.00
+7509	PTMT- Soap Dish/Holder 138x102x75 mm	each	120.00
+7651	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 100 mm dia	metre	797.00
+7652	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 150 mm dia	metre	1170.00
+7653	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 200 mm dia	metre	1595.00
+7654	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 - 250 mm dia	metre	2105.00
+7655	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 - 300 mm dia	metre	2680.00
+7656	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 - 350 mm dia	metre	3225.00
+7657	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 - 400 mm dia	metre	4350.00
+7658	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 - 450 mm dia	metre	5085.00
+7659	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 - 500 mm dia	metre	6180.00
+7660	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 - 600 mm dia	metre	7430.00
+7661	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 - 700 mm dia	metre	10050.00
+7662	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 - 750 mm dia	metre	11350.00
+7663	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 - 800 mm dia	metre	11990.00
+7664	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 - 900 mm dia	metre	14030.00
+7665	Ductile Iron class K - 9 pipe Conforming to I.S. 8329 - 1000 mm dia	metre	15750.00
+7666	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 100 mm dia	each	26.00
+7668	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 150 mm dia	each	36.00
+7669	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 200 mm dia	each	62.00
+7670	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 250 mm dia	each	73.00
+7671	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 300 mm dia	each	103.00
+7672	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 350 mm dia	each	127.00
+7673	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 400 mm dia	each	234.00
+7674	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 450 mm dia	each	260.00
+7675	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 500 mm dia	each	285.00
+7676	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 600 mm dia	each	352.00
+7677	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 700 mm dia	each	542.00
+7678	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 750 mm dia	each	636.00
+7679	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 800 mm dia	each	684.00
+7680	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 900 mm dia	each	915.00
+7681	Rubber Gaskets Conforming to I.S 5382 of S.B.R quality 1000 mm dia	each	1138.00
+7682	Ductile Iron K - 12 specials suitable for push on jointing upto 600 mm dia	quintal	11850.00
+7682	Ductile Iron K - 12 specials suitable for push on jointing over 600 mm dia	quintal	16280.00
+7684	Ductile Iron specials suitable for mechanical jointing as per I.S. 9523 - upto 600 mm dia	quintal	12540.00
+7685	Ductile Iron Specials suitable for mechanical jointing as per I.S. 9523 over 600 mm dia	quintal	17580.00
+7686	Ductile Iron Pipe Class K-9 flanges and welding 100 mm dia	metre	2025.00
+7687	Ductile Iron Pipe Class K-9 flanges and welding 150 mm dia	metre	2825.00
+7688	Ductile Iron Pipe Class K-9 flanges and welding 200 mm dia	metre	3740.00
+7689	Ductile Iron Pipe Class K-9 flanges and welding 250 mm dia	metre	4935.00
+7690	Ductile Iron Pipe Class K-9 flanges and welding 300 mm dia	metre	6330.00
+7691	Ductile Iron Pipe Class K-9 flanges and welding 350 mm dia	metre	8020.00
+7692	Ductile Iron Pipe Class K-9 flanges and welding 400 mm dia	metre	9645.00
+7693	Ductile Iron Pipe Class K-9 flanges and welding 450 mm dia	metre	11675.00
+7694	Ductile Iron Pipe Class K-9 flanges and welding 500 mm dia	metre	13895.00
+7695	Ductile Iron Pipe Class K-9 flanges and welding 600 mm dia	metre	18760.00
+7696	Ductile Iron Pipe Class K-9 flanges and welding 700 mm dia	metre	23275.00
+7697	S&S Centrifugally (Spun) C.I. Pipe class LA 100 mm dia	metre	830.00
+7698	S&S Centrifugally (Spun) C.I. Pipe class LA 125 mm dia	metre	1040.00
+7699	S&S Centrifugally (Spun) C.I. Pipe class LA 150 mm dia	metre	1240.00
+7700	S&S Centrifugally (Spun) C.I. Pipe class LA 200 mm dia	metre	2120.00
+7701	S&S Centrifugally (Spun) C.I. Pipe class LA 250 mm dia	metre	2830.00
+7702	S&S Centrifugally (Spun) C.I. Pipe class LA 300 mm dia	metre	3740.00
+7703	S&S Centrifugally (Spun) C.I. Pipe class LA 350 mm dia	metre	4500.00
+7704	S&S Centrifugally (Spun) C.I. Pipe class LA 400 mm dia	metre	5870.00
+7705	S&S Centrifugally (Spun) C.I. Pipe class LA 450 mm dia	metre	7100.00
+7706	S&S Centrifugally (Spun) C.I. Pipe class LA 500 mm dia	metre	8250.00
+7707	S&S Centrifugally (Spun) C.I. Pipe class LA 600 mm dia	metre	11450.00
+7708	S&S Centrifugally (Spun) C.I. Pipe Specials as per IS 1538 suitable for lead jointing up to 300 mm dia	quintal	5850.00
+7709	S&S Centrifugally (Spun) C.I. Pipe Specials as per IS 1538 suitable for lead jointing over 300 mm dia	quintal	7500.00
+7710	S&S Centrifugally (Spun) C.I. Pipe specials suitable for mechanical joint as per I.S. 13382 up to 300 mm dia	quintal	8200.00
+7711	S&S Centrifugally (Spun) C.I. Pipe specials suitable for mechanical joint as per I.S. 13382 over 300 mm dia	quintal	8880.00 
+7712	Screwed double flanged centrifugally cast (spun) C.I. Pipe of Class B conforming to I.S. 1536, - 100 mm dia	metre	1260.00
+7713	Screwed double flanged centrifugally cast (spun) C.I. Pipe of Class B conforming to I.S. 1536, - 150 mm dia	metre	1960.00
+7714	Screwed double flanged centrifugally cast (spun) C.I. Pipe of Class B conforming to I.S. 1536, - 200 mm dia	metre	3170.00
+7715	Screwed double flanged centrifugally cast (spun) C.I. Pipe of Class B conforming to I.S. 1536, - 250 mm dia	metre	3730.00
+7716	Screwed double flanged centrifugally cast (spun) C.I. Pipe of Class B conforming to I.S. 1536, - 300 mm dia	metre	4770.00
+7717	Screwed double flanged centrifugally cast (spun) C.I. Pipe of Class B conforming to I.S. 1536, - 350 mm dia	metre	6080.00 
+7718	Screwed double flanged centrifugally cast (spun) C.I. Pipe of Class B conforming to I.S. 1536, - 400 mm dia	metre	7890.00 
+7719	Screwed double flanged centrifugally cast (spun) C.I. Pipe of Class B conforming to I.S. 1536, - 450 mm dia	metre	9940.00
+7720	Screwed double flanged centrifugally cast (spun) C.I. Pipe of Class B conforming to I.S. 1536, - 500 mm dia	metre	12390.00
+7721	Screwed double flanged centrifugally cast (spun) C.I. Pipe of Class B conforming to I.S. 1536, - 600 mm dia	metre	15330.00
+7722	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 100 mm dia	metre	708.00
+7723	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 150 mm dia	metre	1035.00
+7724	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 200 mm dia	metre	1415.00
+7725	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 250 mm dia	metre	1920.00
+7726	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 300 mm dia	metre	2638.00
+7727	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 350 mm dia	metre	3135.00
+7728	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 400 mm dia	metre	3714.00
+7729	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 450 mm dia	metre	4411.00
+7730	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 500 mm dia	metre	5214.00
+7731	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 600 mm dia	metre	6801.00
+7732	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 700 mm dia	metre	8739.00
+7733	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 800 mm dia	metre	11156.00
+7734	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 900 mm dia	metre	14617.00
+7735	Ductile Iron Class K- 7 pipe conforming to I.S. 8329 - 1000 mm dia	metre	15485.00
+7859	P.T.M.T. Bib cock with nozzle 15 mm	each	133.00
+7861	P.T.M.T. Stop cock (concealed) 15 mm	each	173.00
+7862	15 mm nominal bore and 30 cm length PVC connection pipe with P.T.M.T. Nuts	each	33.00
+7863	15 mm nominal bore and 45 cm length PVC connection pipe with P.T.M.T. Nuts	each	38.00
+7864	P.T.M.T. extension nipple 15 mm	each	32.00
+7865	P.T.M.T. extension nipple 20 mm	each	38.00
+7866	P.T.M.T. extension nipple 25 mm	each	57.00
+8300	1216 mm PE-AL-PE Composite pressure pipe	metre	90.00
+8301	1620 mm PE-AL-PE Composite pressure pipe	metre	111.00
+8302	2025 mm PE-AL-PE Composite pressure pipe	metre	143.00
+8303	2532 mm PE-AL-PE Composite pressure pipe	metre	193.00
+8304	3240 mm PE-AL-PE Composite pressure pipe	metre	310.00
+8305	4050 mm PE-AL-PE Composite pressure pipe	metre	335.00
+8625	Poly propylene- Random - Co - Polymer (PPR) pipes SDR 7.4 - 16 mm Outer dia	metre	32.00
+8626	Poly propylene- Random - Co - Polymer (PPR) pipes SDR 7.4 - 20 mm Outer dia	metre	50.00 
+8627	Poly propylene- Random - Co - Polymer (PPR) pipes SDR 7.4 - 25 mm Outer dia	metre	76.00 
+8628	Poly propylene- Random - Co - Polymer (PPR) pipes SDR 7.4 - 32 mm Outer dia	metre	124.00 
+8629	Poly propylene- Random - Co - Polymer (PPR) pipes SDR 7.4 - 40 mm Outer dia	metre	196.00 
+8630	Poly propylene- Random - Co - Polymer (PPR) pipes SDR 7.4 - 50 mm Outer dia	metre	286.00 
+8631	Poly propylene- Random - Co - Polymer (PPR) pipes SDR 7.4 - 63 mm Outer dia	metre	445.00 
+8633	Poly propylene- Random - Co - Polymer (PPR) pipes SDR 7.4 - 90 mm Outer dia	metre	1020.00 
+8634	Poly propylene- Random - Co - Polymer (PPR) pipes SDR 7.4 - 110 mm Outer dia	metre	1070.00 
+8635	Poly propylene- Random - Co - Polymer (PPR) pipes SDR 7.4 - 160 mm Outer dia	metre	2255.00
+8636	Chlorinated Polyvinyl - chloride (CPVC) pipe 15 mm outer dia	metre	51.00
+8637	Chlorinated Polyvinyl - chloride (CPVC) pipe 20 mm outer dia	metre	63.00
+8638	Chlorinated Polyvinyl - chloride (CPVC) pipe 25 mm outer dia	metre	90.00
+8639	Chlorinated Polyvinyl - chloride (CPVC) pipe 32 mm outer dia	metre	120.00
+8640	Chlorinated Polyvinyl - chloride (CPVC) pipe 40 mm outer dia	metre	170.00
+8641	Chlorinated Polyvinyl - chloride (CPVC) pipe 50 mm outer dia	metre	280.00
+8642	Chlorinated Polyvinyl - chloride (CPVC) pipe 62.5 mm inner dia	metre	835.00
+8643	Chlorinated Polyvinyl - chloride (CPVC) pipe 75 mm inner dia	metre	1185.00
+8644	Chlorinated Polyvinyl - chloride (CPVC) pipe 100 mm inner dia	metre	1640.00
+8645	Chlorinated Polyvinyl - chloride (CPVC) pipe 150 mm inner dia	metre	2870.00
+9999	Sundries	L.S.	1.49
+3327	15 mm Battery Based Sensor Pillar Cock	each	5822.50
+18.1.1	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with clamps at 1.00 metre spacing. This includes testing of joints complete as per direction of the Engineer in charge. Internal work - Exposed on wall. 1216(16 mm OD) pipe	metre	187.75
+18.1.2	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with clamps at 1.00 metre spacing. This includes testing of joints complete as per direction of the Engineer in charge. Internal work - Exposed on wall. 1620 (20 mm OD) pipe	metre	224.55
+18.1.3	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with clamps at 1.00 metre spacing. This includes testing of joints complete as per direction of the Engineer in charge. Internal work - Exposed on wall. 2025(25 mm OD) pipe	metre	277.95
+18.1.4	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with clamps at 1.00 metre spacing. This includes testing of joints complete as per direction of the Engineer in charge. Internal work - Exposed on wall. 2532(32 mm OD) pipe	metre	362.85
+18.1.5	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with clamps at 1.00 metre spacing. This includes testing of joints complete as per direction of the Engineer in charge. Internal work - Exposed on wall. 3240(40 mm OD) pipe	metre	559.65
+18.1.6	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with clamps at 1.00 metre spacing. This includes testing of joints complete as per direction of the Engineer in charge. Internal work - Exposed on wall. 4050(50 mm OD) pipe	metre	597.40
+18.2.1	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with clamps at 1.00 metre spacing. This includes the costs of cutting chases and including testing of joints complete as per direction of the engineer in charge. Concealed work, including cutting chases and making good the wall etc. 1216 (16 mm OD) pipe.	metre	297.95
+18.2.2	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with clamps at 1.00 metre spacing. This includes the costs of cutting chases and including testing of joints complete as per direction of the engineer in charge. Concealed work, including cutting chases and making good the wall etc. 1620 (20 mm OD) pipe.	metre	340.60
+18.2.3	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with clamps at 1.00 metre spacing. This includes the costs of cutting chases and including testing of joints complete as per direction of the engineer in charge. Concealed work, including cutting chases and making good the wall etc. 2025 (25 mm OD) pipe.	metre	405.65
+18.2.4	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with clamps at 1.00 metre spacing. This includes the costs of cutting chases and including testing of joints complete as per direction of the engineer in charge. Concealed work, including cutting chases and making good the wall etc. 2532 (32 mm OD) pipe.	metre	507.30
+18.3.1	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with trenching, refilling and testing of joints complete as per direction of the engineer in charge. External Work. 1216 (16 mm OD) pipe	metre	181.15
+18.3.2	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with trenching, refilling and testing of joints complete as per direction of the engineer in charge. External Work. 1620 (20 mm OD) pipe	metre	212.85
+18.3.3	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with trenching, refilling and testing of joints complete as per direction of the engineer in charge. External Work. 2025 (25 mm OD) pipe	metre	261.20
+18.3.4	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with trenching, refilling and testing of joints complete as per direction of the engineer in charge. External Work. 2532 (32 mm OD) pipe	metre	336.70
+18.3.5	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with trenching, refilling and testing of joints complete as per direction of the engineer in charge. External Work. 3240 (40 mm OD) pipe	metre	521.00
+18.3.6	Providing and fixing Polyethelene-Aluminium-Polyethelene (PE-AL-PE) Composite Pressure Pipes conforming to IS - 15450, U.V.stabilized with carbon black having thermal stability for hot & cold water supply, capable to withstand temperature up to 80 0C, including all special fittings of composite material (engineering plastic blend and brass inserts wherever required) e.g. elbows, tees, reducers, couplers & connectors etc., with trenching, refilling and testing of joints complete as per direction of the engineer in charge. External Work. 4050 (50 mm OD) pipe	metre	558.75
+18.4.1	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes SDR 7.4, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes testing of joints complete as per direction of Engineer in Charge. Internal Work - Exposed on Wall. PN - 16 Pipe, 16 mm OD	metre	100.20
+18.4.2	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes SDR 7.4, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes testing of joints complete as per direction of Engineer in Charge. Internal Work - Exposed on Wall. PN - 16 Pipe, 20 mm OD	metre	132.45
+18.4.3	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes SDR 7.4, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes testing of joints complete as per direction of Engineer in Charge. Internal Work - Exposed on Wall. PN - 16 Pipe, 25 mm OD	metre	176.80
+18.4.4	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes SDR 7.4, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes testing of joints complete as per direction of Engineer in Charge. Internal Work - Exposed on Wall. PN - 16 Pipe, 32 mm OD	metre	258.70
+18.4.5	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes SDR 7.4, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes testing of joints complete as per direction of Engineer in Charge. Internal Work - Exposed on Wall. PN - 16 Pipe, 40 mm OD	metre	387.55
+18.4.6	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes SDR 7.4, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes testing of joints complete as per direction of Engineer in Charge. Internal Work - Exposed on Wall. PN - 16 Pipe, 50 mm OD	metre	523.45
+18.5.1	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes SDR 7.4, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes the cost of cutting chases and making good the same including testing of joints complete as per direction of Engineer in Charge. Concealed work, including cutting chases and making good the walls etc., PN - 16 Pipe, 16 mm OD	metre	180.05
+18.5.2	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes SDR 7.4, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes the cost of cutting chases and making good the same including testing of joints complete as per direction of Engineer in Charge. Concealed work, including cutting chases and making good the walls etc., PN - 16 Pipe, 20 mm OD	metre	216.65
+18.5.3	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes SDR 7.4, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes the cost of cutting chases and making good the same including testing of joints complete as per direction of Engineer in Charge. Concealed work, including cutting chases and making good the walls etc., PN - 16 Pipe, 25 mm OD	metre	269.50
+18.5.4	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes SDR 7.4, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes the cost of cutting chases and making good the same including testing of joints complete as per direction of Engineer in Charge. Concealed work, including cutting chases and making good the walls etc., PN - 16 Pipe, 32 mm OD	metre	367.05
+18.6.1	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, including trenching, refilling & testing of joints complete as per direction of Engineer in Charge. External Work. PN - 16 Pipe, 16 mm OD (SDR - 7.4)	metre	93.60
+18.6.2	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, including trenching, refilling & testing of joints complete as per direction of Engineer in Charge. External Work. PN - 16 Pipe, 20 mm OD (SDR - 7.4)	metre	120.75
+18.6.3	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, including trenching, refilling & testing of joints complete as per direction of Engineer in Charge. External Work. PN - 16 Pipe, 25 mm OD (SDR - 7.4)	metre	164.00
+18.6.4	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, including trenching, refilling & testing of joints complete as per direction of Engineer in Charge. External Work. PN - 16 Pipe, 32 mm OD (SDR - 7.4)	metre	236.45
+18.6.5	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, including trenching, refilling & testing of joints complete as per direction of Engineer in Charge. External Work. PN - 16 Pipe, 40 mm OD (SDR - 7.4)	metre	348.90
+18.6.6	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, including trenching, refilling & testing of joints complete as per direction of Engineer in Charge. External Work. PN - 16 Pipe, 50 mm OD (SDR - 7.4)	metre	484.80
+18.6.7	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, including trenching, refilling & testing of joints complete as per direction of Engineer in Charge. External Work. PN - 16 Pipe, 63 mm OD (SDR - 7.4)	metre	737.45
+18.6.8	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, including trenching, refilling & testing of joints complete as per direction of Engineer in Charge. External Work. PN - 16 Pipe, 75 mm OD (SDR - 7.4)	metre	1031.90
+18.6.9	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, including trenching, refilling & testing of joints complete as per direction of Engineer in Charge. External Work. PN - 16 Pipe, 90 mm OD (SDR - 7.4)	metre	1626.80
+18.6.10	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, including trenching, refilling & testing of joints complete as per direction of Engineer in Charge. External Work. PN - 16 Pipe, 110 mm OD (SDR - 7.4)	metre	1702.30
+18.6.11	Providing and fixing 3 layer PP-R (Poly propylene Random copolymer) pipes, U V stabilized & anti - microbial fusion welded, having thermal stability for hot & cold water supply, including all PP - R plain & brass threaded polypropylene random fittings, including trenching, refilling & testing of joints complete as per direction of Engineer in Charge. External Work. PN - 16 Pipe, 160 mm OD (SDR - 7.4)	metre	3538.25
+18.7.1	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply, including all CPVC plain & brass threaded fittings, including fixing the pipe with clamps at 1.00 m spacing. This includes jointing of pipes & fittings with one step CPVC solvent cement and testing of joints complete as per direction of Engineer in Charge. Internal work - Exposed on wall. 15 mm nominal outer dia Pipes.	metre	133.95
+18.7.2	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply, including all CPVC plain & brass threaded fittings, including fixing the pipe with clamps at 1.00 m spacing. This includes jointing of pipes & fittings with one step CPVC solvent cement and testing of joints complete as per direction of Engineer in Charge. Internal work - Exposed on wall. 20 mm nominal outer dia Pipes.	metre	157.15
+18.7.3	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply, including all CPVC plain & brass threaded fittings, including fixing the pipe with clamps at 1.00 m spacing. This includes jointing of pipes & fittings with one step CPVC solvent cement and testing of joints complete as per direction of Engineer in Charge. Internal work - Exposed on wall. 25 mm nominal outer dia Pipes.	metre	197.90
+18.7.4	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply, including all CPVC plain & brass threaded fittings, including fixing the pipe with clamps at 1.00 m spacing. This includes jointing of pipes & fittings with one step CPVC solvent cement and testing of joints complete as per direction of Engineer in Charge. Internal work - Exposed on wall. 32 mm nominal outer dia Pipes.	metre	252.65
+18.7.5	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply, including all CPVC plain & brass threaded fittings, including fixing the pipe with clamps at 1.00 m spacing. This includes jointing of pipes & fittings with one step CPVC solvent cement and testing of joints complete as per direction of Engineer in Charge. Internal work - Exposed on wall. 40 mm nominal outer dia Pipes.	metre	348.25
+18.7.6	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply, including all CPVC plain & brass threaded fittings, including fixing the pipe with clamps at 1.00 m spacing. This includes jointing of pipes & fittings with one step CPVC solvent cement and testing of joints complete as per direction of Engineer in Charge. Internal work - Exposed on wall. 50 mm nominal outer dia Pipes.	metre	514.35
+18.8.1	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply, including all CPVC plain & brass threaded fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes jointing of pipes & fittings with one step CPVC solvent cement and the cost of cutting chases and making good the same including testing of joints complete as per direction of Engineer in Charge. Concealed work, including cutting chases and making good the walls etc. 15 mm nominal outer dia Pipes.	metre	218.65
+18.8.2	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply, including all CPVC plain & brass threaded fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes jointing of pipes & fittings with one step CPVC solvent cement and the cost of cutting chases and making good the same including testing of joints complete as per direction of Engineer in Charge. Concealed work, including cutting chases and making good the walls etc. 20 mm nominal outer dia Pipes.	metre	243.05
+18.8.3	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply, including all CPVC plain & brass threaded fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes jointing of pipes & fittings with one step CPVC solvent cement and the cost of cutting chases and making good the same including testing of joints complete as per direction of Engineer in Charge. Concealed work, including cutting chases and making good the walls etc. 25 mm nominal outer dia Pipes.	metre	297.95
+18.8.4	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply, including all CPVC plain & brass threaded fittings, i/c fixing the pipe with clamps at 1.00 m spacing. This includes jointing of pipes & fittings with one step CPVC solvent cement and the cost of cutting chases and making good the same including testing of joints complete as per direction of Engineer in Charge. Concealed work, including cutting chases and making good the walls etc. 32 mm nominal outer dia Pipes.	metre	358.90
+18.9.1	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply including all CPVC plain & brass threaded fittings This includes jointing of pipes & fittings with one step CPVC solvent cement ,trenching ,refilling & testing of joints complete as per direction of Engineer in Charge. External Work. 15 mm nominal outer dia Pipes.	metre	122.25
+18.9.2	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply including all CPVC plain & brass threaded fittings This includes jointing of pipes & fittings with one step CPVC solvent cement ,trenching ,refilling & testing of joints complete as per direction of Engineer in Charge. External Work. 20 mm nominal outer dia Pipes.	metre	140.40
+18.9.3	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply including all CPVC plain & brass threaded fittings This includes jointing of pipes & fittings with one step CPVC solvent cement ,trenching ,refilling & testing of joints complete as per direction of Engineer in Charge. External Work. 32 mm nominal outer dia Pipes.	metre	185.15
+18.9.4	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply including all CPVC plain & brass threaded fittings This includes jointing of pipes & fittings with one step CPVC solvent cement ,trenching ,refilling & testing of joints complete as per direction of Engineer in Charge. External Work. 40 mm nominal outer dia Pipes.	metre	230.45
+18.9.5	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply including all CPVC plain & brass threaded fittings This includes jointing of pipes & fittings with one step CPVC solvent cement ,trenching ,refilling & testing of joints complete as per direction of Engineer in Charge. External Work. 50 mm nominal outer dia Pipes.	metre	309.60
+18.9.6	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply including all CPVC plain & brass threaded fittings This includes jointing of pipes & fittings with one step CPVC solvent cement ,trenching ,refilling & testing of joints complete as per direction of Engineer in Charge. External Work. 62.50 mm nominal outer dia Pipes.	metre	475.70
+18.9.7	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply including all CPVC plain & brass threaded fittings This includes jointing of pipes & fittings with one step CPVC solvent cement ,trenching ,refilling & testing of joints complete as per direction of Engineer in Charge. External Work. 75 mm nominal outer dia Pipes.	metre	1326.35
+18.9.8	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply including all CPVC plain & brass threaded fittings This includes jointing of pipes & fittings with one step CPVC solvent cement ,trenching ,refilling & testing of joints complete as per direction of Engineer in Charge. External Work. 100 mm nominal outer dia Pipes.	metre	1854.85
+18.9.9	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply including all CPVC plain & brass threaded fittings This includes jointing of pipes & fittings with one step CPVC solvent cement ,trenching ,refilling & testing of joints complete as per direction of Engineer in Charge. External Work. 150 mm nominal outer dia Pipes.	metre	2563.00
+18.9.10	Providing and fixing Chlorinated Polyvinyl Chloride (CPVC) pipes, having thermal stability for hot & cold water supply including all CPVC plain & brass threaded fittings This includes jointing of pipes & fittings with one step CPVC solvent cement ,trenching ,refilling & testing of joints complete as per direction of Engineer in Charge. External Work. 15 mm nominal outer dia Pipes.	metre	4466.85
+18.10.1	Providing and fixing G.I. pipes complete with G.I. fittings and clamps, i/c cutting and making good the walls etc. Internal work - Exposed on wall. 15 mm dia nominal bore.	metre	161.60
+18.10.2	Providing and fixing G.I. pipes complete with G.I. fittings and clamps, i/c cutting and making good the walls etc. Internal work - Exposed on wall. 20 mm dia nominal bore.	metre	188.05
+18.10.3	Providing and fixing G.I. pipes complete with G.I. fittings and clamps, i/c cutting and making good the walls etc. Internal work - Exposed on wall. 25 mm dia nominal bore.	metre	243.15
+18.10.4	Providing and fixing G.I. pipes complete with G.I. fittings and clamps, i/c cutting and making good the walls etc. Internal work - Exposed on wall. 32 mm dia nominal bore.	metre	296.50
+18.10.5	Providing and fixing G.I. pipes complete with G.I. fittings and clamps, i/c cutting and making good the walls etc. Internal work - Exposed on wall. 40 mm dia nominal bore.	metre	364.10
+18.10.6	Providing and fixing G.I. pipes complete with G.I. fittings and clamps, i/c cutting and making good the walls etc. Internal work - Exposed on wall. 50 mm dia nominal bore.	metre	453.65
+18.11.1	Providing and fixing G.I. Pipes complete with G.I. fittings and clamps, i/c making good the walls etc. concealed pipe, including painting with anti corrosive bitumastic paint, cutting chases and making good the wall : 15 mm dia nominal bore	metre	229.10
+18.11.2	Providing and fixing G.I. Pipes complete with G.I. fittings and clamps, i/c making good the walls etc. concealed pipe, including painting with anti corrosive bitumastic paint, cutting chases and making good the wall : 20 mm dia nominal bore	metre	251.30
+18.12.1	Providing and fixing G.I. pipes complete with G.I. fittings including trenching and refilling etc. External Work. 15 mm dia nominal bore.	metre	142.25
+18.12.2	Providing and fixing G.I. pipes complete with G.I. fittings including trenching and refilling etc. External Work. 20 mm dia nominal bore.	metre	161.25
+18.12.3	Providing and fixing G.I. pipes complete with G.I. fittings including trenching and refilling etc. External Work. 25 mm dia nominal bore.	metre	209.40
+18.12.4	Providing and fixing G.I. pipes complete with G.I. fittings including trenching and refilling etc. External Work. 32 mm dia nominal bore.	metre	248.55
+18.12.5	Providing and fixing G.I. pipes complete with G.I. fittings including trenching and refilling etc. External Work. 40 mm dia nominal bore.	metre	294.20
+18.12.6	Providing and fixing G.I. pipes complete with G.I. fittings including trenching and refilling etc. External Work. 50 mm dia nominal bore.	metre	355.95
+18.12.7	Providing and fixing G.I. pipes complete with G.I. fittings including trenching and refilling etc. External Work. 65 mm dia nominal bore.	metre	453.55
+18.12.8	Providing and fixing G.I. pipes complete with G.I. fittings including trenching and refilling etc. External Work. 80 mm dia nominal bore.	metre	573.40
+18.13.1	Making connection of G.I. distribution branch with G.I. main of following sizes by providing and fixing tee, including cutting and threading the pipe etc. complete : 25 to 40 mm nominal bore	each	277.35
+18.13.2	Making connection of G.I. distribution branch with G.I. main of following sizes by providing and fixing tee, including cutting and threading the pipe etc. complete : 50 to 80 mm nominal bore	each	630.15
+18.14	Fixing water meter and stop cock in G.I. pipe line including cutting and threading the pipe and making long screws etc. complete (cost of water meter and stop cock to be paid separately).	each	228.55
+18.15.1	Providing and fixing brass bib cock of approved quality : 15 mm nominal bore.	each	205.60
+18.15.2	Providing and fixing brass bib cock of approved quality : 20 mm nominal bore.	each	266.15
+18.16.1	Providing and fixing brass stop cock of approved quality : 15 mm nominal bore.	each	205.60
+18.16.2	Providing and fixing brass stop cock of approved quality : 20 mm nominal bore.	each	266.65
+18.17.1	Providing and fixing gun metal gate valve with C.I. wheel of approved quality (screwed end) : 25 mm nominal bore	each	372.95
+18.17.2	Providing and fixing gun metal gate valve with C.I. wheel of approved quality (screwed end) : 32 mm nominal bore	each	450.90
+18.17.3	Providing and fixing gun metal gate valve with C.I. wheel of approved quality (screwed end) : 40 mm nominal bore	each	546.05
+18.17.4	Providing and fixing gun metal gate valve with C.I. wheel of approved quality (screwed end) : 50 mm nominal bore	each	780.60
+18.17.5	Providing and fixing gun metal gate valve with C.I. wheel of approved quality (screwed end) : 65 mm nominal bore	each	1073.25
+18.17.6	Providing and fixing gun metal gate valve with C.I. wheel of approved quality (screwed end) : 80 mm nominal bore	each	1832.95
+18.18.1	Providing and fixing ball valve (brass) of approved quality, High or low pressure, with plastic floats complete : 15 mm nominal bore	each	258.05
+18.18.2	Providing and fixing ball valve (brass) of approved quality, High or low pressure, with plastic floats complete : 20 mm nominal bore	each	360.20
+18.18.3	Providing and fixing ball valve (brass) of approved quality, High or low pressure, with plastic floats complete : 25 mm nominal bore	each	421.65
+18.19.1.1	Providing and fixing gun metal non- return valve of approved quality (screwed end) : 25 mm nominal bore. Horizontal.	each	383.45
+18.19.1.2	Providing and fixing gun metal non- return valve of approved quality (screwed end) : 25 mm nominal bore. Vertical.	each	395.05
+18.19.2.1	Providing and fixing gun metal non- return valve of approved quality (screwed end) : 32 mm nominal bore. Horizontal.	each	490.25
+18.19.2.2	Providing and fixing gun metal non- return valve of approved quality (screwed end) : 32 mm nominal bore. Vertical.	each	594.80
+18.19.3.1	Providing and fixing gun metal non- return valve of approved quality (screwed end) : 40 mm nominal bore. Horizontal.	each	620.25
+18.19.3.2	Providing and fixing gun metal non- return valve of approved quality (screwed end) : 40 mm nominal bore. Vertical.	each	817.70
+18.19.4.1	Providing and fixing gun metal non- return valve of approved quality (screwed end) : 50 mm nominal bore. Horizontal.	each	936.35
+18.19.4.2	Providing and fixing gun metal non- return valve of approved quality (screwed end) : 50 mm nominal bore. Vertical.	each	1110.55
+18.19.5.1	Providing and fixing gun metal non- return valve of approved quality (screwed end) : 65 mm nominal bore. Horizontal.	each	1681.95
+18.19.5.2	Providing and fixing gun metal non- return valve of approved quality (screwed end) : 65 mm nominal bore. Vertical.	each	1949.10
+18.19.6.1	Providing and fixing gun metal non- return valve of approved quality (screwed end) : 80 mm nominal bore. Horizontal.	each	2392.95
+18.19.6.2	Providing and fixing gun metal non- return valve of approved quality (screwed end) : 80 mm nominal bore. Vertical.	each	3089.85
+18.20.1	Providing and fixing brass ferrule with C.I. mouth cover including boring and tapping the main : 15 mm nominal bore	each	203.30
+18.20.2	Providing and fixing brass ferrule with C.I. mouth cover including boring and tapping the main : 20 mm nominal bore	each	250.10
+18.20.3	Providing and fixing brass ferrule with C.I. mouth cover including boring and tapping the main : 25 mm nominal bore	each	331.25
+18.21.1.1	Providing and fixing uplasticised PVC connection pipe with brass unions : 30 cm length. 15 mm nominal bore.	each	51.35
+18.21.1.2	Providing and fixing uplasticised PVC connection pipe with brass unions : 30 cm length. 20 mm nominal bore.	each	59.50
+18.21.2.1	Providing and fixing uplasticised PVC connection pipe with brass unions : 45 cm length. 15 mm nominal bore.	each	61.70
+18.21.2.2	Providing and fixing uplasticised PVC connection pipe with brass unions : 45 cm length. 20 mm nominal bore.	each	73.35
+18.22.1	Providing and fixing C.P. brass shower rose with 15 or 20 mm inlet : 100 mm diameter.	each	58.15
+18.22.2	Providing and fixing C.P. brass shower rose with 15 or 20 mm inlet : 150 mm diameter.	each	77.85
+18.23	Laying in position centrifugally cast (spun) iron S&S or flanged pipes (excluding cost of pipe).	quintal	101.70
+18.24	Laying in position S&S or flanged C.I. special such as tees, bends, collars, tapers and caps etc.(excluding cost of specials).	quintal	186.10
+18.25.1	Providing and laying S&S C.I. standard specials such as tees, bends, collars, tapers, caps etc. (Heavy class) : Up to 300 mm dia.	quintal	4202.35
+18.25.2	Providing and laying S&S C.I. standard specials such as tees, bends, collars, tapers, caps etc. (Heavy class) : Over 300 mm dia.	quintal	4318.50
+18.26.1	Providing and laying flanged C.I. standard specials such as tees, bends, collars, tapers, caps etc., suitable for flanged jointing as per IS : 1538 : Up to 300 mm dia	quintal	6351.10
+18.26.2	Providing and laying flanged C.I. standard specials such as tees, bends, collars, tapers, caps etc., suitable for flanged jointing as per IS : 1538 : Over 300 mm dia	quintal	6699.55
+18.27.1	Providing and laying S&S centrifugally cast (spun) iron pipes (Class LA) conforming to IS - 1536 : 100 mm dia pipe.	metre	986.40
+18.27.2	Providing and laying S&S centrifugally cast (spun) iron pipes (Class LA) conforming to IS - 1536 : 125 mm dia pipe.	metre	1237.15
+18.27.3	Providing and laying S&S centrifugally cast (spun) iron pipes (Class LA) conforming to IS - 1536 : 150 mm dia pipe.	metre	1476.70
+18.27.4	Providing and laying S&S centrifugally cast (spun) iron pipes (Class LA) conforming to IS - 1536 : 200 mm dia pipe.	metre	2516.30
+18.27.5	Providing and laying S&S centrifugally cast (spun) iron pipes (Class LA) conforming to IS - 1536 : 250 mm dia pipe.	metre	3360.20
+18.27.6	Providing and laying S&S centrifugally cast (spun) iron pipes (Class LA) conforming to IS - 1536 : 300 mm dia pipe.	metre	4437.80
+18.27.7	Providing and laying S&S centrifugally cast (spun) iron pipes (Class LA) conforming to IS - 1536 : 350 mm dia pipe.	metre	5346.45
+18.27.8	Providing and laying S&S centrifugally cast (spun) iron pipes (Class LA) conforming to IS - 1536 : 400 mm dia pipe.	metre	6965.85
+18.27.9	Providing and laying S&S centrifugally cast (spun) iron pipes (Class LA) conforming to IS - 1536 : 450 mm dia pipe.	metre	8425.25
+18.27.10	Providing and laying S&S centrifugally cast (spun) iron pipes (Class LA) conforming to IS - 1536 : 500 mm dia pipe.	metre	9787.20
+18.27.11	Providing and laying S&S centrifugally cast (spun) iron pipes (Class LA) conforming to IS - 1536 : 600 mm dia pipe.	metre	13576.25
+18.28.1	Providing lead caulked joints to spun iron or C.I. pipes and specials, including testing of joints but excluding the cost of pig lead : 100 mm diameter pipe.	each	150.00
+18.28.2	Providing lead caulked joints to spun iron or C.I. pipes and specials, including testing of joints but excluding the cost of pig lead : 125 mm diameter pipe.	each	220.65
+18.28.3	Providing lead caulked joints to spun iron or C.I. pipes and specials, including testing of joints but excluding the cost of pig lead : 150 mm diameter pipe.	each	225.10
+18.28.4	Providing lead caulked joints to spun iron or C.I. pipes and specials, including testing of joints but excluding the cost of pig lead : 200 mm diameter pipe.	each	298.65
+18.28.5	Providing lead caulked joints to spun iron or C.I. pipes and specials, including testing of joints but excluding the cost of pig lead : 250 mm diameter pipe.	each	372.70
+18.28.6	Providing lead caulked joints to spun iron or C.I. pipes and specials, including testing of joints but excluding the cost of pig lead : 300 mm diameter pipe.	each	448.75
+18.28.7	Providing lead caulked joints to spun iron or C.I. pipes and specials, including testing of joints but excluding the cost of pig lead : 350 mm diameter pipe.	each	463.85
+18.28.8	Providing lead caulked joints to spun iron or C.I. pipes and specials, including testing of joints but excluding the cost of pig lead : 400 mm diameter pipe.	each	604.35
+18.28.9	Providing lead caulked joints to spun iron or C.I. pipes and specials, including testing of joints but excluding the cost of pig lead : 450 mm diameter pipe.	each	676.85
+18.28.10	Providing lead caulked joints to spun iron or C.I. pipes and specials, including testing of joints but excluding the cost of pig lead : 500 mm diameter pipe.	each	716.75
+18.28.11	Providing lead caulked joints to spun iron or C.I. pipes and specials, including testing of joints but excluding the cost of pig lead : 600 mm diameter pipe.	each	965.35
+18.29 Supplying pig lead at site of work.	quintal	10462.55
+18.30.1	Providing flanged joints to double flanged C.I./ D.I. pipes and specials, including testing of joints : 80 mm diameter pipe.	each	92.65
+18.30.2	Providing flanged joints to double flanged C.I./ D.I. pipes and specials, including testing of joints : 100 mm diameter pipe.	each	155.25
+18.30.3	Providing flanged joints to double flanged C.I./ D.I. pipes and specials, including testing of joints : 125 mm diameter pipe.	each	165.70
+18.30.4	Providing flanged joints to double flanged C.I./ D.I. pipes and specials, including testing of joints : 150 mm diameter pipe.	each	192.80
+18.30.5	Providing flanged joints to double flanged C.I./ D.I. pipes and specials, including testing of joints : 200 mm diameter pipe.	each	198.65
+18.30.6	Providing flanged joints to double flanged C.I./ D.I. pipes and specials, including testing of joints : 250 mm diameter pipe.	each	297.20
+18.30.7	Providing flanged joints to double flanged C.I./ D.I. pipes and specials, including testing of joints : 300 mm diameter pipe.	each	306.50
+18.30.8	Providing flanged joints to double flanged C.I./ D.I. pipes and specials, including testing of joints : 350 mm diameter pipe.	each	408.30
+18.30.9	Providing flanged joints to double flanged C.I./ D.I. pipes and specials, including testing of joints : 400 mm diameter pipe.	each	657.35
+18.30.10	Providing flanged joints to double flanged C.I./ D.I. pipes and specials, including testing of joints : 450 mm diameter pipe.	each	814.95
+18.30.11	Providing flanged joints to double flanged C.I./ D.I. pipes and specials, including testing of joints : 500 mm diameter pipe.	each	893.15
+18.30.12	Providing flanged joints to double flanged C.I./ D.I. pipes and specials, including testing of joints : 600 mm diameter pipe.	each	1059.15
+18.31.1.1	Providing and fixing C.I. sluice valves (with cap) complete with bolts, nuts, rubber insertions etc. (the tail pieces if required will be paid separately) : 100 mm diameter.	Class I.	each	3068.35
+18.31.1.2	Providing and fixing C.I. sluice valves (with cap) complete with bolts, nuts, rubber insertions etc. (the tail pieces if required will be paid separately) : 100 mm diameter.	Class II.	each	3498.30
+18.31.2.1	Providing and fixing C.I. sluice valves (with cap) complete with bolts, nuts, rubber insertions etc. (the tail pieces if required will be paid separately) : 125 mm diameter.	Class I.	each	3461.15
+18.31.2.2	Providing and fixing C.I. sluice valves (with cap) complete with bolts, nuts, rubber insertions etc. (the tail pieces if required will be paid separately) : 125 mm diameter.	Class II.	each	4181.45
+18.31.3.1	Providing and fixing C.I. sluice valves (with cap) complete with bolts, nuts, rubber insertions etc. (the tail pieces if required will be paid separately) : 150 mm diameter.	Class I.	each	4487.75
+18.31.3.2	Providing and fixing C.I. sluice valves (with cap) complete with bolts, nuts, rubber insertions etc. (the tail pieces if required will be paid separately) : 150 mm diameter.	Class II.	each	5200.40
+18.31.4.1	Providing and fixing C.I. sluice valves (with cap) complete with bolts, nuts, rubber insertions etc. (the tail pieces if required will be paid separately) : 200 mm diameter.	Class I.	each	8242.25
+18.31.4.2	Providing and fixing C.I. sluice valves (with cap) complete with bolts, nuts, rubber insertions etc. (the tail pieces if required will be paid separately) : 200 mm diameter.	Class II.	each	11260.60
+18.31.5.1	Providing and fixing C.I. sluice valves (with cap) complete with bolts, nuts, rubber insertions etc. (the tail pieces if required will be paid separately) : 250 mm diameter.	Class I.	each	12037.80
+18.31.5.2	Providing and fixing C.I. sluice valves (with cap) complete with bolts, nuts, rubber insertions etc. (the tail pieces if required will be paid separately) : 250 mm diameter.	Class II.	each	16723.30
+18.31.6.1	Providing and fixing C.I. sluice valves (with cap) complete with bolts, nuts, rubber insertions etc. (the tail pieces if required will be paid separately) : 300 mm diameter.	Class I.	each	16766.25
+18.31.6.2	Providing and fixing C.I. sluice valves (with cap) complete with bolts, nuts, rubber insertions etc. (the tail pieces if required will be paid separately) : 300 mm diameter.	Class II.	each	20950.60
+18.32.1	Constructing masonry Chamber 30x30x50 cm inside, in brick work in cement mortar 1:4 (1 cement :4 coarse sand) for stop cock, with C.I. surface box 100x100 x75 mm (inside) with hinged cover fixed in cement concrete slab 1:2:4 mix (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size), i/c necessary excavation, foundation concrete 1:5:10 ( 1 cement : 5 fine sand : 10 graded stone aggregate 40mm nominal size ) and inside plastering with cement mortar 1:3 (1 cement : 3 coarse sand) 12mm thick, finished with a floating coat of neat cement complete as per standard design : With common burnt clay F.P.S.(non modular) bricks of class designation 7.5.	each	908.95
+18.33.1	Constructing masonry Chamber 60x60x75 cm inside, in brick work in cement mortar 1:4 (1 cement : 4 coarse sand) for sluice valve, with C.I. surface box 100mm top diameter, 160 mm bottom diameter and 180 mm deep ( inside) with chained lid and RCC top slab 1:2:4 mix (1 cement : 2 coarse sand : 4 graded stone aggregate 20mm nominal size ) , i/c necessary excavation, foundation concrete 1:5:10 (1 cement : 5 fine sand : 10 graded stone aggregate 40 mm nominal size) and inside plastering with cement mortar 1:3 (1 cement : 3 coarse sand) 12 mm thick, finished with a floating coat of neat cement complete as per standard design : With common burnt clay F.P.S.(non modular) bricks of class designation 7.5	each	5392.90
+18.34.1	Constructing masonry Chamber 90x90x100 cm inside, in brick work in cement mortar 1:4 (1 cement : 4 coarse sand) for sluice valve, with C.I. surface box 100 mm top diameter, 160 mm bottom diameter and 180 mm deep (inside) with chained lid and RCC top slab 1:2:4 mix (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size ), i/c necessary excavation, foundation concrete 1:5:10 (1 cement : 5 fine sand : 10 graded stone aggregate 40 mm nominal size ) and inside plastering with cement mortar 1:3 (1 cement : 3 coarse sand) 12 mm thick, finished with a floating coat of neat cement complete as per standard design : With common burnt clay F.P.S.(non modular) bricks of class designation 7.5	each	9277.10
+18.35.1	Constructing masonry Chamber 120x120x100 cm inside, in brick work in cement mortar 1:4 (1 cement : 4 coarse sand) for sluice valve, with C.I. surface box 100 mm top diameter, 160 mm bottom diameter and 180 mm deep ( inside) with chained lid and RCC top slab 1:2:4 mix (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size) , i/c necessary excavation, foundation concrete 1:5:10 (1 cement : 5 fine sand : 10 graded stone aggregate 40 mm nominal size) and inside plastering with cement mortar 1:3 (1 cement : 3 coarse sand) 12 mm thick, finished with a floating coat of neat cement complete as per standard design : With common burnt clay F.P.S.(non modular) bricks of class designation 7.5	each	12866.45
+18.36.1	Constructing masonry Chamber 60x60x75 cm, inside in brick work in cement mortar 1:4 (1 cement : 4 coarse sand) for fire hydrants, with C.I. surface box 350x350 mm top and 165 mm deep ( inside) with chained lid and RCC top slab 1:2:4 mix (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size) , i/c necessary excavation, foundation concrete 1:5:10 (1 cement : 5 fine sand:10 graded stone aggregate 40 mm nominal size) and inside plastering with cement mortar 1:3 (1 cement : 3 coarse sand) 12 mm thick, finished with a floating coat of neat cement complete as per standard design : With common burnt clay F.P.S.(non modular) bricks of class designation 7.5	each	5106.65
+18.37.1	Constructing masonry Chamber 60x45x50 cm inside, in brick work in cement mortar 1:4 (1 cement : 4 coarse sand) for water meter complete with C.I. double flap surface box 400x200x200 mm (inside) with locking arrangement and RCC top slab 1:2:4 mix (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size) , i/c necessary excavation, foundation concrete 1:5:10 ( 1 cement : 5 fine sand:10 graded stone aggregate 40 mm nominal size) and inside plastering with cement mortar 1:3 (1 cement : 3 coarse sand) 12 mm thick, finished with a floating coat of neat cement complete as per standard design : With common burnt clay F.P.S.(non modular) bricks of class designation 7.5	each	4925.60
+18.38.1	Painting G.I. pipes and fittings with synthetic enamel white paint with two coats over a ready mixed priming coat, both of approved quality for new work : 15 mm diameter pipe	metre	7.35
+18.38.2	Painting G.I. pipes and fittings with synthetic enamel white paint with two coats over a ready mixed priming coat, both of approved quality for new work : 20 mm diameter pipe	metre	8.65
+18.38.3	Painting G.I. pipes and fittings with synthetic enamel white paint with two coats over a ready mixed priming coat, both of approved quality for new work : 25 mm diameter pipe	metre	11.40
+18.38.4	Painting G.I. pipes and fittings with synthetic enamel white paint with two coats over a ready mixed priming coat, both of approved quality for new work : 32 mm diameter pipe	metre	13.45
+18.38.5	Painting G.I. pipes and fittings with synthetic enamel white paint with two coats over a ready mixed priming coat, both of approved quality for new work : 40 mm diameter pipe	metre	16.00
+18.38.6	Painting G.I. pipes and fittings with synthetic enamel white paint with two coats over a ready mixed priming coat, both of approved quality for new work : 50 mm diameter pipe	metre	18.80
+18.39.1	Repainting G.I. pipes and fittings with synthetic enamel white paint with one coat of approved quality : 15 mm diameter pipe.	 metre	3.75
+18.39.2	Repainting G.I. pipes and fittings with synthetic enamel white paint with one coat of approved quality : 20 mm diameter pipe.	 metre	4.35
+18.39.3	Repainting G.I. pipes and fittings with synthetic enamel white paint with one coat of approved quality : 25 mm diameter pipe.	 metre	5.60
+18.39.4	Repainting G.I. pipes and fittings with synthetic enamel white paint with one coat of approved quality : 32 mm diameter pipe.	 metre	6.60
+18.39.5	Repainting G.I. pipes and fittings with synthetic enamel white paint with one coat of approved quality : 40 mm diameter pipe.	 metre	7.70
+18.39.6	Repainting G.I. pipes and fittings with synthetic enamel white paint with one coat of approved quality : 50 mm diameter pipe.	 metre	9.00
+18.40.1	Painting G.I. pipes and fittings with two coats of anti-corrosive bitumastic paint of approved quality : 15 mm diameter pipe.	metre	4.40
+18.40.2	Painting G.I. pipes and fittings with two coats of anti-corrosive bitumastic paint of approved quality : 20 mm diameter pipe.	metre	5.15
+18.40.3	Painting G.I. pipes and fittings with two coats of anti-corrosive bitumastic paint of approved quality : 25 mm diameter pipe.	metre	6.60
+18.40.4	Painting G.I. pipes and fittings with two coats of anti-corrosive bitumastic paint of approved quality : 32 mm diameter pipe.	metre	7.80
+18.40.5	Painting G.I. pipes and fittings with two coats of anti-corrosive bitumastic paint of approved quality : 40 mm diameter pipe.	metre	8.90
+18.40.6	Painting G.I. pipes and fittings with two coats of anti-corrosive bitumastic paint of approved quality : 50 mm diameter pipe.	metre	10.55
+18.40.7	Painting G.I. pipes and fittings with two coats of anti-corrosive bitumastic paint of approved quality : 65 mm diameter pipe.	metre	12.95
+18.40.8	Painting G.I. pipes and fittings with two coats of anti-corrosive bitumastic paint of approved quality : 80 mm diameter pipe.	metre	15.00
+18.41.1	Providing and filling sand of grading zone V or coarser grade, all-round the G.I. pipes in external work : 15 mm diameter pipe.	metre	54.75
+18.41.2	Providing and filling sand of grading zone V or coarser grade, all-round the G.I. pipes in external work : 20 mm diameter pipe.	metre	55.50
+18.41.3	Providing and filling sand of grading zone V or coarser grade, all-round the G.I. pipes in external work : 25 mm diameter pipe.	metre	56.95
+18.41.4	Providing and filling sand of grading zone V or coarser grade, all-round the G.I. pipes in external work : 32 mm diameter pipe.	metre	58.45
+18.41.5	Providing and filling sand of grading zone V or coarser grade, all-round the G.I. pipes in external work : 40 mm diameter pipe.	metre	59.20
+18.41.6	Providing and filling sand of grading zone V or coarser grade, all-round the G.I. pipes in external work : 50 mm diameter pipe.	metre	61.40
+18.41.7	Providing and filling sand of grading zone V or coarser grade, all-round the G.I. pipes in external work : 65 mm diameter pipe.	metre	96.95
+18.41.8	Providing and filling sand of grading zone V or coarser grade, all-round the G.I. pipes in external work : 80 mm diameter pipe.	metre	99.90
+18.41.9	Providing and filling sand of grading zone V or coarser grade, all-round the G.I. pipes in external work : 100 mm diameter pipe.	metre	105.80
+18.41.10	Providing and filling sand of grading zone V or coarser grade, all-round the G.I. pipes in external work : 150 mm diameter pipe.	metre	157.60
+18.42.1	Boring with 100 mm diameter casing pipe for hand pump / tubewell, in all soils except ordinary hard rocks requiring blasting, including removing the casing pipe after the hand pump / tube well is lowered and tested : Up to 6 metres depth.	metre	259.25
+18.42.2	Boring with 100 mm diameter casing pipe for hand pump / tubewell, in all soils except ordinary hard rocks requiring blasting, including removing the casing pipe after the hand pump / tube well is lowered and tested : Beyond 6 m and up to 12 m depth.	metre	308.20
+18.42.3	Boring with 100 mm diameter casing pipe for hand pump / tubewell, in all soils except ordinary hard rocks requiring blasting, including removing the casing pipe after the hand pump / tube well is lowered and tested : Beyond 12 m and up to 18 m depth.	metre	359.15
+18.43	Providing and placing in position filters of 40 mm diameter G.I. pipe with brass strainer of approved quality.	metre	479.25
+18.44	Providing and fixing to filter and lowering to proper levels 40 mm G.I. pipe for tube well including cleaning and priming the tube well.	metre	275.15
+18.45	Providing and placing in position hand pump of approved quality for 40 mm diameter G.I. pipe complete with all accessories.	each	733.55
+18.46.1	Providing and fixing G.I. Union in G.I. pipe including cutting and threading the pipe and making long screws etc. complete (New work) : 15 mm nominal bore.	each	119.60
+18.46.2	Providing and fixing G.I. Union in G.I. pipe including cutting and threading the pipe and making long screws etc. complete (New work) : 20 mm nominal bore.	each	142.85
+18.46.3	Providing and fixing G.I. Union in G.I. pipe including cutting and threading the pipe and making long screws etc. complete (New work) : 25 mm nominal bore.	each	154.45
+18.46.4	Providing and fixing G.I. Union in G.I. pipe including cutting and threading the pipe and making long screws etc. complete (New work) : 32 mm nominal bore.	each	189.30
+18.46.5	Providing and fixing G.I. Union in G.I. pipe including cutting and threading the pipe and making long screws etc. complete (New work) : 40 mm nominal bore.	each	229.95
+18.46.6	Providing and fixing G.I. Union in G.I. pipe including cutting and threading the pipe and making long screws etc. complete (New work) : 50 mm nominal bore.	each	307.70
+18.46.7	Providing and fixing G.I. Union in G.I. pipe including cutting and threading the pipe and making long screws etc. complete (New work) : 65 mm nominal bore.	each	551.60
+18.46.8	Providing and fixing G.I. Union in G.I. pipe including cutting and threading the pipe and making long screws etc. complete (New work) : 80 mm nominal bore.	each	656.15
+18.47.1	Providing and fixing G.I. Union in existing G.I. pipe line, cutting and threading the pipe and making long screws, including excavation, refilling the earth or cutting of wall and making good the same complete wherever required : 15 mm nominal bore.	each	259.65
+18.47.2	Providing and fixing G.I. Union in existing G.I. pipe line, cutting and threading the pipe and making long screws, including excavation, refilling the earth or cutting of wall and making good the same complete wherever required : 20 mm nominal bore.	each	282.90
+18.47.3	Providing and fixing G.I. Union in existing G.I. pipe line, cutting and threading the pipe and making long screws, including excavation, refilling the earth or cutting of wall and making good the same complete wherever required : 25 mm nominal bore.	each	294.50
+18.47.4	Providing and fixing G.I. Union in existing G.I. pipe line, cutting and threading the pipe and making long screws, including excavation, refilling the earth or cutting of wall and making good the same complete wherever required : 32 mm nominal bore.	each	329.35
+18.47.5	Providing and fixing G.I. Union in existing G.I. pipe line, cutting and threading the pipe and making long screws, including excavation, refilling the earth or cutting of wall and making good the same complete wherever required : 40 mm nominal bore.	each	370.00
+18.47.6	Providing and fixing G.I. Union in existing G.I. pipe line, cutting and threading the pipe and making long screws, including excavation, refilling the earth or cutting of wall and making good the same complete wherever required : 50 mm nominal bore.	each	498.65
+18.47.7	Providing and fixing G.I. Union in existing G.I. pipe line, cutting and threading the pipe and making long screws, including excavation, refilling the earth or cutting of wall and making good the same complete wherever required : 65 mm nominal bore.	each	742.55
+18.47.8	Providing and fixing G.I. Union in existing G.I. pipe line, cutting and threading the pipe and making long screws, including excavation, refilling the earth or cutting of wall and making good the same complete wherever required : 80 mm nominal bore.	each	847.10
+18.48	Providing and placing on terrace (at all floor levels) polyethylene water storage tank, ISI : 12701 marked, with cover and suitable locking arrangement and making necessary holes for inlet, outlet and overflow pipes but without fittings and the base support for tank.	per litre	6.10
+18.49.1	Providing and fixing C.P. brass bib cock of approved quality conforming to IS:8931 : 15 mm nominal bore.	each	397.50
+18.50.1	Providing and fixing C.P. brass long nose bib cock of approved quality conforming to IS standards and weighing not less than 810 gms. 15 mm nominal bore.	each	411.40
+18.51.1	Providing and fixing C.P. brass long body bib cock of approved quality conforming to IS standards and weighing not less than 690 gms. 15 mm nominal bore.	each	430.60
+18.52.1	Providing and fixing C.P. brass stop cock (concealed) of standard design and of approved make conforming to IS:8931. 15 mm nominal bore.	each	426.55
+18.53.1	Providing and fixing C.P. brass angle valve for basin mixer and geyser points of approved quality conforming to IS:8931. 15 mm nominal bore.	each	449.35
+18.54.1	Providing and fixing PTMT bib cock of approved quality and colour. 15mm nominal bore, 86 mm long, weighing not less than 88 gms.	each	130.10 
+18.54.2	Providing and fixing PTMT bib cock of approved quality and colour. 15 mm nominal bore, 122mm long, weighing not less than 99 gms.	each	176.55 
+18.54.3	Providing and fixing PTMT bib cock of approved quality and colour. 15 mm nominal bore, 165 mm long, weighing not less than 110 gms.	each	199.80 
+18.54.4	Providing and fixing PTMT bib cock of approved quality and colour. 15mm nominal bore, 90 mm long, weighing not less than 93 gms.	each	168.45
+18.55.1	Providing and fixing PTMT stop cock of approved quality and colour. 15 mm nominal bore, 86 mm long, weighing not less than 88 gms.	each	130.10 
+18.55.2	Providing and fixing PTMT stop cock of approved quality and colour. 20 mm nominal bore, 89 mm long, weighing not less than 88 gms.	each	164.95 
+18.55.3	Providing and fixing PTMT stop cock of approved quality and colour. Concealed stop cock, 15 mm nominal bore, 108 mm long, weighing not less than 108 gms.	each	214.90
+18.56.1	Providing and fixing PTMT pillar cock of approved quality and colour. 15 mm nominal bore, 107 mm long, weighing not less than 110 gms.	each	202.25
+18.56.2	Providing and fixing PTMT pillar cock of approved quality and colour. 15 mm nominal bore, 125 mm long foam flow, weighing not less than 120 gms.	each	277.25
+18.57.1	Providing and fixing PTMT, push cock of approved quality and colour. 15 mm nominal bore, 98 mm long, weighing not less than 75 gms.	each	118.50
+18.57.2	Providing and fixing PTMT, push cock of approved quality and colour. 15 mm nominal bore, 80 mm long, weighing not less than 46 gms.	each	106.85
+18.58.1.1	Providing and fixing PTMT grating of approved quality and colour. Circular type. 100 mm nominal dia.	each	43.20
+18.58.1.2	Providing and fixing PTMT grating of approved quality and colour. Circular type. 125 mm nominal dia with 25 mm waste hole.	each	50.15
+18.58.2.1	Providing and fixing PTMT grating of approved quality and colour. Rectangular type with openable circular lid. 150 mm nominal size square 100 mm diameter of the inner hinged round grating.	each	124.50
+18.59.1	Providing and fixing C.I. double acting air valve of approved quality with bolts, nuts, rubber insertions etc. complete (The tail pieces, tapers etc if required will be paid separately) : 50 mm dia.	each	4018.15
+18.59.2	Providing and fixing C.I. double acting air valve of approved quality with bolts, nuts, rubber insertions etc. complete (The tail pieces, tapers etc if required will be paid separately) : 80 mm dia.	each	5830.10
+18.59.3	Providing and fixing C.I. double acting air valve of approved quality with bolts, nuts, rubber insertions etc. complete (The tail pieces, tapers etc if required will be paid separately) : 100 mm dia.	each	7602.35
+18.60.1	Providing and fixing enclosed type water meter (bulk type) conforming to IS : 2373 and tested by Municipal Board complete with bolts, nuts, rubber insertions etc. (The tail pieces if required will be paid separately) : 80 mm dia nominal bore.	each	2880.60
+18.60.2	Providing and fixing enclosed type water meter (bulk type) conforming to IS : 2373 and tested by Municipal Board complete with bolts, nuts, rubber insertions etc. (The tail pieces if required will be paid separately) : 100 mm dia nominal bore.	each	4329.20
+18.60.3	Providing and fixing enclosed type water meter (bulk type) conforming to IS : 2373 and tested by Municipal Board complete with bolts, nuts, rubber insertions etc. (The tail pieces if required will be paid separately) : 150 mm dia nominal bore.	each	6132.00
+18.60.4	Providing and fixing enclosed type water meter (bulk type) conforming to IS : 2373 and tested by Municipal Board complete with bolts, nuts, rubber insertions etc. (The tail pieces if required will be paid separately) : 200 mm dia nominal bore.	each	6860.90
+18.61.1	Providing and fixing C.I. dirt box strainer for bulk type water meter with nuts, bolts, rubber insertions etc. complete conforming to IS : 2373 : 80 mm dia.	each	3340.90
+18.61.2	Providing and fixing C.I. dirt box strainer for bulk type water meter with nuts, bolts, rubber insertions etc. complete conforming to IS : 2373 : 100 mm dia.	each	5300.55
+18.61.3	Providing and fixing C.I. dirt box strainer for bulk type water meter with nuts, bolts, rubber insertions etc. complete conforming to IS : 2373 : 150 mm dia.	each	6860.90
+18.61.4	Providing and fixing C.I. dirt box strainer for bulk type water meter with nuts, bolts, rubber insertions etc. complete conforming to IS : 2373 : 200 mm dia.	each	9436.60
+18.62.1	Providing and fixing PTMT Ball cock of approved quality, colour and make complete with Epoxy coated aluminium rod with L.P./ H.P.H.D. plastic ball. 15 mm nominal bore, 105 mm long, weighing not less than 138 gms.	each	193.00 
+18.62.2	Providing and fixing PTMT Ball cock of approved quality, colour and make complete with Epoxy coated aluminium rod with L.P./ H.P.H.D. plastic ball. 20 mm nominal bore, 120 mm long, weighing not less than 198 gms.	each	273.05 
+18.62.3	Providing and fixing PTMT Ball cock of approved quality, colour and make complete with Epoxy coated aluminium rod with L.P./ H.P.H.D. plastic ball. 25 mm nominal bore, 152mm long, weighing not less than 440 gms.	each	543.65 
+18.62.4	Providing and fixing PTMT Ball cock of approved quality, colour and make complete with Epoxy coated aluminium rod with L.P./ H.P.H.D. plastic ball. 40 mm nominal bore, 206mm long, weighing not less than 690 gms.	each	961.75 
+18.62.5	Providing and fixing PTMT Ball cock of approved quality, colour and make complete with Epoxy coated aluminium rod with L.P./ H.P.H.D. plastic ball. 50 mm nominal bore, 242mm long, weighing not less than 1240 gms.	each	1391.50
+18.63	Providing and fixing PTMT angle stop cock 15 mm nominal bore, weighing not less than 85 gms.	each	164.95
+18.64	Providing and fixing PTMT swivelling shower, 15 mm nominal bore, weighing not less than 40 gms.	each	112.75
+18.65	Providing and fixing PTMT soap Dish Holder having length of 138mm, breadth 102mm, height of 75mm with concealed fitting arrangements, weighing not less than 106 gms.	each	151.10
+18.66.1	Providing and laying S&S C.I. Standard specials such as tees, bends, collars tapers and caps etc, suitable for flanged jointing as per IS : 1538 : Up to 300 mm dia.	quintal	6989.95 
+18.66.2	Providing and laying S&S C.I. Standard specials such as tees, bends, collars tapers and caps etc, suitable for flanged jointing as per IS : 1538 : Above 300 mm dia.	quintal	8906.40
+18.67.1	Providing and laying S&S C.I. Standard specials suitable for mechanical jointing as per IS : 13382 : Up to 300 mm dia.	quintal	9719.45
+18.67.2	Providing and laying S&S C.I. Standard specials suitable for mechanical jointing as per IS : 13382 : Above 300 mm dia.	quintal	10509.25
+18.68.1	Providing and laying D.I. specials of class K-12 suitable for push-on jointing as per IS : 9523 : Up to 600 mm dia.	quintal	13958.95
+18.68.2	Providing and laying D.I. specials of class K-12 suitable for push-on jointing as per IS : 9523 : Above 600 mm dia.	quintal	19104.40
+18.69.1	Providing and laying D.I. Specials of Class K - 12 suitable for mechanical jointing as per IS : 9523 : Up to 600 mm dia.	quintal	14760.35
+18.69.2	Providing and laying D.I. Specials of Class K - 12 suitable for mechanical jointing as per IS : 9523 : Above 600 mm dia.	quintal	20614.30
+18.70.1	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket :100 mm dia pipes	joint	49.25
+18.70.2	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 150 mm dia pipes	joint	79.05
+18.70.3	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 200 mm dia pipes	joint	121.65
+18.70.4	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 250 mm dia pipes	joint	146.80
+18.70.5	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 300 mm dia pipes	joint	194.05
+18.70.6	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 350 mm dia pipes	joint	221.95
+18.70.7	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 400 mm dia pipes	joint	317.05
+18.70.8	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 450 mm dia pipes	joint	413.65
+18.70.9	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 500 mm dia pipes	joint	448.85
+18.70.10	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 600 mm dia pipes	joint	570.10
+18.70.11	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 650 mm dia pipes	joint	820.55
+18.70.12	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 700 mm dia pipes	joint	929.75
+18.70.13	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 800 mm dia pipes	joint	1005.35
+18.70.14	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 900 mm dia pipes	joint	1310.85
+18.70.15	Providing push-on-joints to Centrifugally (Spun) Cast Iron Pipes or Ductile Iron Pipes including testing of joints and the cost of rubber gasket : 1000 mm dia pipes	joint	1594.70
+18.71.1	Providing and laying Double Flanged (screwed / welded) Centrifugally (Spun) Cast Iron, Class B (IS : 1536) : 100 mm dia C.I. Double Flanged Pipe	metre	1493.15
+18.71.2	Providing and laying Double Flanged (screwed / welded) Centrifugally (Spun) Cast Iron, Class B (IS : 1536) :150 mm dia C.I. Double Flanged Pipe	metre	2325.20
+18.71.3	Providing and laying Double Flanged (screwed / welded) Centrifugally (Spun) Cast Iron, Class B (IS : 1536) : 200 mm dia C.I. Double Flanged Pipe	metre	3752.65
+18.71.4	Providing and laying Double Flanged (screwed / welded) Centrifugally (Spun) Cast Iron, Class B (IS : 1536) : 250 mm dia C.I. Double Flanged Pipe	metre	4427.80
+18.71.5	Providing and laying Double Flanged (screwed / welded) Centrifugally (Spun) Cast Iron, Class B (IS : 1536) : 300 mm dia C.I. Double Flanged Pipe	metre	5662.80
+18.71.6	Providing and laying Double Flanged (screwed / welded) Centrifugally (Spun) Cast Iron, Class B (IS : 1536) : 350 mm dia C.I. Double Flanged Pipe	metre	7214.85
+18.71.7	Providing and laying Double Flanged (screwed / welded) Centrifugally (Spun) Cast Iron, Class B (IS : 1536) : 400 mm dia C.I. Double Flanged Pipe	metre	9354.10
+18.71.8	Providing and laying Double Flanged (screwed / welded) Centrifugally (Spun) Cast Iron, Class B (IS : 1536) : 450 mm dia C.I. Double Flanged Pipe	metre	11775.05
+18.71.9	Providing and laying Double Flanged (screwed / welded) Centrifugally (Spun) Cast Iron, Class B (IS : 1536) : 500 mm dia C.I. Double Flanged Pipe	metre	14654.50
+18.71.10	Providing and laying Double Flanged (screwed / welded) Centrifugally (Spun) Cast Iron, Class B (IS : 1536) : 600 mm dia C.I. Double Flanged Pipe	metre	18163.60
+18.72.1	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 100 mm dia Ductile Iron Class K-7 pipes	metre	840.25
+18.72.2	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 150 mm dia Ductile Iron Class K-7 pipes	metre	1229.05
+18.72.3	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 200 mm dia Ductile Iron Class K-7 pipes	metre	1680.15
+18.72.4	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 250 mm dia Ductile Iron Class K-7 pipes	metre	2278.60
+18.72.5	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 300 mm dia Ductile Iron Class K-7 pipes	metre	3123.85
+18.72.6	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 350 mm dia Ductile Iron Class K-7 pipes	metre	3723.25
+18.72.7	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 400 mm dia Ductile Iron Class K-7 pipes	metre	4413.65
+18.72.8	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 450 mm dia Ductile Iron Class K-7 pipes	metre	5241.05
+18.72.9	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 500 mm dia Ductile Iron Class K-7 pipes	metre	6189.20
+18.72.10	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 600 mm dia Ductile Iron Class K-7 pipes	metre	8077.40
+18.72.11	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 700 mm dia Ductile Iron Class K-7 pipes	metre	10379.50
+18.72.12	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 800 mm dia Ductile Iron Class K-7 pipes	metre	13242.40
+18.72.13	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 900 mm dia Ductile Iron Class K-7 pipes	metre	17320.75
+18.72.14	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 1000 mm dia Ductile Iron Class K-7 pipes	metre	18414.10
+18.72.15	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 100 mm dia Ductile Iron Class K-9 pipes	metre	946.00
+18.72.16	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 150 mm dia Ductile Iron Class K-9 pipes	metre	1389.40
+18.72.17	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 200 mm dia Ductile Iron Class K-9 pipes	metre	1895.40
+18.72.18	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 250 mm dia Ductile Iron Class K-9 pipes	metre	2502.35
+18.72.19	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 300 mm dia Ductile Iron Class K-9 pipes	metre	3184.95
+18.72.20	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 350 mm dia Ductile Iron Class K-9 pipes	metre	3841.75
+18.72.21	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 400 mm dia Ductile Iron Class K-9 pipes	metre	5169.15
+18.72.22	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 450 mm dia Ductile Iron Class K-9 pipes	metre	6043.80
+18.72.23	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 500 mm dia Ductile Iron Class K-9 pipes	metre	7334.45
+18.72.24	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 600 mm dia Ductile Iron Class K-9 pipes	metre	8838.45
+18.72.25	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 600 mm dia Ductile Iron Class K-9 pipes 700 mm dia Ductile Iron Class K-9 pipes	metre	11919.00
+18.72.26	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 600 mm dia Ductile Iron Class K-9 pipes 750 mm dia Ductile Iron Class K-9 pipes	metre	13485.35
+18.72.27	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 600 mm dia Ductile Iron Class K-9 pipes 800 mm dia Ductile Iron Class K-9 pipes	metre	14272.15
+18.72.28	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 600 mm dia Ductile Iron Class K-9 pipes 900 mm dia Ductile Iron Class K-9 pipes	metre	16696.70
+18.72.29	Providing and laying S&S Centrifugally Cast (Spun) / Ductile Iron Pipes conforming to IS : 8329 : 600 mm dia Ductile Iron Class K-9 pipes 1000 mm dia Ductile Iron Class K-9 pipes	metre	18754.40
+18.73.1	Providing and laying Double Flanged (Screwed / Welded) Centrifugally (Spun) Ductile Iron Pipes of Class K - 9 conforming to IS : 8329 : 100 mm dia Ductile Iron Double Flanged	metre	2376.45
+18.73.2	Providing and laying Double Flanged (Screwed / Welded) Centrifugally (Spun) Ductile Iron Pipes of Class K - 9 conforming to IS : 8329 : 150 mm dia Ductile Iron Double Flanged	metre	3318.10
+18.73.3	Providing and laying Double Flanged (Screwed / Welded) Centrifugally (Spun) Ductile Iron Pipes of Class K - 9 conforming to IS : 8329 : 200 mm dia Ductile Iron Double Flanged	metre	4395.00
+18.73.4	Providing and laying Double Flanged (Screwed / Welded) Centrifugally (Spun) Ductile Iron Pipes of Class K - 9 conforming to IS : 8329 : 250 mm dia Ductile Iron Double Flanged	metre	5801.00
+18.73.5	Providing and laying Double Flanged (Screwed / Welded) Centrifugally (Spun) Ductile Iron Pipes of Class K - 9 conforming to IS : 8329 : 300 mm dia Ductile Iron Double Flanged	metre	7440.60
+18.73.6	Providing and laying Double Flanged (Screwed / Welded) Centrifugally (Spun) Ductile Iron Pipes of Class K - 9 conforming to IS : 8329 : 350 mm dia Ductile Iron Double Flanged	metre	9423.00
+18.73.7	Providing and laying Double Flanged (Screwed / Welded) Centrifugally (Spun) Ductile Iron Pipes of Class K - 9 conforming to IS : 8329 : 400 mm dia Ductile Iron Double Flanged	metre	11332.70
+18.73.8	Providing and laying Double Flanged (Screwed / Welded) Centrifugally (Spun) Ductile Iron Pipes of Class K - 9 conforming to IS : 8329 : 450 mm dia Ductile Iron Double Flanged	metre	13715.20
+18.73.9	Providing and laying Double Flanged (Screwed / Welded) Centrifugally (Spun) Ductile Iron Pipes of Class K - 9 conforming to IS : 8329 : 500 mm dia Ductile Iron Double Flanged	metre	16314.30
+18.73.10	Providing and laying Double Flanged (Screwed / Welded) Centrifugally (Spun) Ductile Iron Pipes of Class K - 9 conforming to IS : 8329 : 600 mm dia Ductile Iron Double Flanged	metre	22029.20
+18.73.11	Providing and laying Double Flanged (Screwed / Welded) Centrifugally (Spun) Ductile Iron Pipes of Class K - 9 conforming to IS : 8329 : 700 mm dia Ductile Iron Double Flanged	metre	27318.00
+18.74.1	Providing and fixing unplasticised P.V.C. connection pipe with PTMT Nuts, collar and bush of approved quality and colour. 15 mm nominal bore with 30cm length.	each	59.50
+18.74.2	Providing and fixing unplasticised P.V.C. connection pipe with PTMT Nuts, collar and bush of approved quality and colour. 15 mm nominal bore with 45cm length.	each	67.55
+18.75.1	Providing and fixing PTMT extension nipple for water tank pipe, fittings of approved quality and colour. 15 mm nominal bore, weighing not less than 32 gms	each	43.00
+18.75.2	Providing and fixing PTMT extension nipple for water tank pipe, fittings of approved quality and colour. 20mm nominal bore, weighing not less than 40 gms	each	50.00
+18.75.3	Providing and fixing PTMT extension nipple for water tank pipe, fittings of approved quality and colour. 25mm nominal bore, weighing not less than 62 gms	each	72.05
+18.76.1	Cutting holes up to 30x30 cm in walls including making good the same: With common burnt clay F.P.S. (non modular) bricks.	each	152.00
+18.77	Cutting holes up to 15x15 cm in R.C.C. floors and roofs for passing drain pipe etc. and repairing the hole after insertion of drain pipe etc. with cement concrete 1:2:4 (1 cement : 2 coarse sand : 4 graded stone aggregate 20 mm nominal size), including finishing complete so as to make it leak proof.	each	143.95
+18.78	Making chases up to 7.5x7.5 cm in walls including making good and finishing with matching surface after housing G.I. pipe etc.	metre	63.60
+18.79	Making hole up to 20x20 cm and embedding pipes up to 150 mm diameter in masonry and filling with cement concrete 1:3:6 (1 cement : 3 coarse sand 6 graded stone aggregate 20 mm nominal size) including disposal of malba.	metre	102.80
+18.80.1	Disinfecting C.I. water mains by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, operation to be repeated three times including getting the sample of water from the disinfected main tested in the municipal laboratory. 80 mm diameter C.I. pipe	100 metre	524.55
+18.80.2	Disinfecting C.I. water mains by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, operation to be repeated three times including getting the sample of water from the disinfected main tested in the municipal laboratory. 100 mm diameter C.I. pipe	100 metre	689.60
+18.80.3	Disinfecting C.I. water mains by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, operation to be repeated three times including getting the sample of water from the disinfected main tested in the municipal laboratory. 125 mm diameter C.I. pipe	100 metre	863.55
+18.80.4	Disinfecting C.I. water mains by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, operation to be repeated three times including getting the sample of water from the disinfected main tested in the municipal laboratory. 150 mm diameter C.I. pipe	100 metre	1041.00
+18.80.5	Disinfecting C.I. water mains by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, operation to be repeated three times including getting the sample of water from the disinfected main tested in the municipal laboratory. 200 mm diameter C.I. pipe	100 metre	1398.35
+18.80.6	Disinfecting C.I. water mains by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, operation to be repeated three times including getting the sample of water from the disinfected main tested in the municipal laboratory. 250 mm diameter C.I. pipe	100 metre	1773.25
+18.80.7	Disinfecting C.I. water mains by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, operation to be repeated three times including getting the sample of water from the disinfected main tested in the municipal laboratory. 300 mm diameter C.I. pipe	100 metre	1996.10
+18.80.8	Disinfecting C.I. water mains by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, operation to be repeated three times including getting the sample of water from the disinfected main tested in the municipal laboratory. 350 mm diameter C.I. pipe	100 metre	2230.70
+18.80.9	Disinfecting C.I. water mains by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, operation to be repeated three times including getting the sample of water from the disinfected main tested in the municipal laboratory. 400 mm diameter C.I. pipe	100 metre	2482.85
+18.80.10	Disinfecting C.I. water mains by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, operation to be repeated three times including getting the sample of water from the disinfected main tested in the municipal laboratory. 450 mm diameter C.I. pipe	100 metre	2742.75
+18.80.11	Disinfecting C.I. water mains by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, operation to be repeated three times including getting the sample of water from the disinfected main tested in the municipal laboratory. 500 mm diameter C.I. pipe	100 metre	3020.15
+18.80.12	Disinfecting C.I. water mains by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, operation to be repeated three times including getting the sample of water from the disinfected main tested in the municipal laboratory. 600 mm diameter C.I. pipe	100 metre	3596.85
+18.81.1	Extra for every operation of disinfecting the C.I. main by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, including getting the samples of water tested in the municipal laboratory :80 mm diameter C.I. pipe	100 metre	192.80
+18.81.2	Extra for every operation of disinfecting the C.I. main by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, including getting the samples of water tested in the municipal laboratory : 100 mm diameter C.I. pipe	100 metre	235.25
+18.81.3	Extra for every operation of disinfecting the C.I. main by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, including getting the samples of water tested in the municipal laboratory : 125 mm diameter C.I. pipe	100 metre	287.90
+18.81.4	Extra for every operation of disinfecting the C.I. main by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, including getting the samples of water tested in the municipal laboratory : 150 mm diameter C.I. pipe	100 metre	337.35
+18.81.5	Extra for every operation of disinfecting the C.I. main by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, including getting the samples of water tested in the municipal laboratory : 200 mm diameter C.I. pipe	100 metre	510.60
+18.81.6	Extra for every operation of disinfecting the C.I. main by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, including getting the samples of water tested in the municipal laboratory : 250 mm diameter C.I. pipe	100 metre	594.86
+18.81.7	Extra for every operation of disinfecting the C.I. main by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, including getting the samples of water tested in the municipal laboratory : 300 mm diameter C.I. pipe	100 metre	677.25
+18.81.8	Extra for every operation of disinfecting the C.I. main by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, including getting the samples of water tested in the municipal laboratory : 350 mm diameter C.I. pipe	100 metre	800.55
+18.81.9	Extra for every operation of disinfecting the C.I. main by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, including getting the samples of water tested in the municipal laboratory : 400 mm diameter C.I. pipe	100 metre	926.50
+18.81.10	Extra for every operation of disinfecting the C.I. main by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, including getting the samples of water tested in the municipal laboratory : 450 mm diameter C.I. pipe	100 metre	1058.15
+18.81.11	Extra for every operation of disinfecting the C.I. main by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, including getting the samples of water tested in the municipal laboratory : 500 mm diameter C.I. pipe	100 metre	1191.55
+18.81.12	Extra for every operation of disinfecting the C.I. main by flushing with water containing bleaching powder @ 0.5 gms per litre of water and cleaning the same with fresh water, including getting the samples of water tested in the municipal laboratory : 600 mm diameter C.I. pipe	100 metre	1468.35
+18.82.1	Dismantling old C.I. pipes including excavation and refilling trenches after taking out the pipes, breaking lead caulked joints, melting of lead and making into blocks, including stacking of pipes at site lead up to 50 metre : 80 mm diameter C.I. pipe	metre	150.70
+18.82.2	Dismantling old C.I. pipes including excavation and refilling trenches after taking out the pipes, breaking lead caulked joints, melting of lead and making into blocks, including stacking of pipes at site lead up to 50 metre : 100 mm diameter C.I. pipe	metre	155.55
+18.82.3	Dismantling old C.I. pipes including excavation and refilling trenches after taking out the pipes, breaking lead caulked joints, melting of lead and making into blocks, including stacking of pipes at site lead up to 50 metre : 125 mm diameter C.I. pipe	metre	160.00
+18.82.4	Dismantling old C.I. pipes including excavation and refilling trenches after taking out the pipes, breaking lead caulked joints, melting of lead and making into blocks, including stacking of pipes at site lead up to 50 metre : 150 mm diameter C.I. pipe	metre	164.60
+18.82.5	Dismantling old C.I. pipes including excavation and refilling trenches after taking out the pipes, breaking lead caulked joints, melting of lead and making into blocks, including stacking of pipes at site lead up to 50 metre : 200 mm diameter C.I. pipe	metre	181.90
+18.82.6	Dismantling old C.I. pipes including excavation and refilling trenches after taking out the pipes, breaking lead caulked joints, melting of lead and making into blocks, including stacking of pipes at site lead up to 50 metre : 250 mm diameter C.I. pipe	metre	198.65
+18.82.7	Dismantling old C.I. pipes including excavation and refilling trenches after taking out the pipes, breaking lead caulked joints, melting of lead and making into blocks, including stacking of pipes at site lead up to 50 metre : 300 mm diameter C.I. pipe	metre	213.10
+18.82.8	Dismantling old C.I. pipes including excavation and refilling trenches after taking out the pipes, breaking lead caulked joints, melting of lead and making into blocks, including stacking of pipes at site lead up to 50 metre : 350 mm diameter C.I. pipe	metre	226.35
+18.82.9	Dismantling old C.I. pipes including excavation and refilling trenches after taking out the pipes, breaking lead caulked joints, melting of lead and making into blocks, including stacking of pipes at site lead up to 50 metre : 400 mm diameter C.I. pipe	metre	238.15
+18.82.10	Dismantling old C.I. pipes including excavation and refilling trenches after taking out the pipes, breaking lead caulked joints, melting of lead and making into blocks, including stacking of pipes at site lead up to 50 metre : 450 mm diameter C.I. pipe	metre	250.40
+18.82.11	Dismantling old C.I. pipes including excavation and refilling trenches after taking out the pipes, breaking lead caulked joints, melting of lead and making into blocks, including stacking of pipes at site lead up to 50 metre : 500 mm diameter C.I. pipe	metre	260.65
+18.82.12	Dismantling old C.I. pipes including excavation and refilling trenches after taking out the pipes, breaking lead caulked joints, melting of lead and making into blocks, including stacking of pipes at site lead up to 50 metre : 600 mm diameter C.I. pipe	metre	277.65
+18.83.1	Labour for cutting C.I. pipe with steel saw. 80 mm diameter C.I. pipe	Each cut	41.35
+18.83.2	Labour for cutting C.I. pipe with steel saw. 100 mm diameter C.I. pipe	Each cut	55.65
+18.83.3	Labour for cutting C.I. pipe with steel saw. 125 mm diameter C.I. pipe	Each cut	77.65
+18.83.4	Labour for cutting C.I. pipe with steel saw. 150 mm diameter C.I. pipe	Each cut	104.70
+18.83.5	Labour for cutting C.I. pipe with steel saw. 200 mm diameter C.I. pipe	Each cut	139.65
+18.83.6	Labour for cutting C.I. pipe with steel saw. 250 mm diameter C.I. pipe	Each cut	173.10
+18.83.7	Labour for cutting C.I. pipe with steel saw. 300 mm diameter C.I. pipe	Each cut	208.05
+18.83.8	Labour for cutting C.I. pipe with steel saw. 350 mm diameter C.I. pipe	Each cut	241.45
+18.83.9	Labour for cutting C.I. pipe with steel saw. 400 mm diameter C.I. pipe	Each cut	276.20
+18.83.10	Labour for cutting C.I. pipe with steel saw. 450 mm diameter C.I. pipe	Each cut	309.80
+18.83.11	Labour for cutting C.I. pipe with steel saw. 500 mm diameter C.I. pipe	Each cut	344.55
+18.83.12	Labour for cutting C.I. pipe with steel saw. 600 mm diameter C.I. pipe	Each cut	409.80
+18.84.1	Providing & fixing chrome plated brass battery based infrared sensor operated pillar cock, having foam flow technology. 15 mm nominal bore.	each	6776.80

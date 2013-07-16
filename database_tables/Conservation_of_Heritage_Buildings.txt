@@ -1,0 +1,32 @@
+25.1	Raking out joints of stone masonry surface to the required width and depth, with due care and precaution, by mechanical / manual means, including preparing and cleaning the surface for re-pointing/refilling of joints, including disposal of rubbish to the dumping ground within 50 metre lead.	sqm	19.85
+25.2	Providing and fixing double scaffolding system (cup lock type) on the exterior side of building/structure, upto 25 metre height, above ground level, including additional rows of scaffolding in stepped manner as per requirement of site, made with 40mm dia M.S. tube, placed 1.5 metre centre to centre, horizontal & vertical tubes joint with cup & lock system with M.S. Tubes, M.S. tube challis, M.S. clamps and staircase system in the scaffolding for working platform etc. and maintaining it in a serviceable condition for execution of work of cleaning and/ or pointing and/ or applying chemical and removing it thereafter. The scaffolding system shall be stiffened with bracings, runners, connecting with the building etc, wherever required, if feasible, for inspection of work at required locations with essential safety features for the workmen etc., complete as per directions and approval of Engineer-in-charge.	sqm	127.10
+25.3	Cleaning the sand stone surface and removing dirt, dust, bird dropping, grease, oil, algae, fungus, monkey beats, vegetable growth etc., including providing, applying and washing the surface with liquid Ammonia Chemical of 5% solution and other chemical cleaning agent as approved by Archaeological Survey of India/ Engineer-in- charge, of approved brand and manufacturer, with the help of required scrubbers and also cleaning with machine operated water jet mixed with desired quantity of fine silica where ever required, without causing any scratching/damage to the stone surface and finally washing the surface with clean water with the help of pressure jet machine, complete in all respect, including taking all precautions to safeguard ventilators, windows, doors etc. by suitable covering so as to avoid any damage to the building/structure, all as per direction of Engineer-in-charge (The rate is inclusive of all materials & labours involved except scaffolding).	sqm	62.70
+25.4	Providing and applying antifungal wash treatment using 3% solution of sodium pentachlorophenate, of reputed brand and manufacturer, on cleaned sand stone surface at desired locations as per direction of Engineer-in-charge (The rate is inclusive of all materials & labours involved except scaffolding).	sqm	26.80
+25.5	Ruled / Flush pointing on Red sand stone masonry surface with lime, surkhi and marble dust mortar in the ratio of 1:1.5:1/2 {One lime: 1.5 surkhi (50% red and 50% light yellow surkhi ):1/2 marble dust}. (The rate is inclusive of all materials & labours involved except scaffolding).	sqm	104.30
+25.6	Ruled/ Flush pointing on White sand stone masonry surface with lime, surkhi and marble dust mortar in the ratio of 1:1.5:1/2 {One lime : 1.5 surkhi (15% dark red and 85% light yellow surkhi) : 1/2 marble dust}. (The rate is inclusive of all materials & labours involved except scaffolding).	sqm	104.30
+25.7	Applying two or more coat of Ethyl Silicate chemical as approved by Archaeological Survey of India/ Engineer-in-charge, of approved brand and manufacturer, with brush or spray on the existing stone masonry surface till there is no further absorption of chemical by stone surface, including protecting the applied surface from direct sunlight by suitable means during application, all complete as per direction of the Engineer-in-Charge (The rate is inclusive of all materials & labours involved except scaffolding).	sqm	267.00
+25.8	Applying breathable, non-reactive, antifungal, and water repellant Silane/ Siloxane chemical as approved by Archaeological Survey of India/ Engineer-in-charge, of approved brand and manufacture, diluted with solvent mineral Turpentine oil in the ratio of 1:12 (One part of approved chemical :12 Part of Turpentine oil), on the existing sand stone masonry surface with two or more coats to give uniform application of chemical on the surface, all complete as per direction of Engineer-In-charge (The rate is inclusive of all materials & labours involved except scaffolding).	sqm	69.70
+0101	Bhisti	 day	 260.00
+0103 	Blacksmith 2nd class	day	 273.00
+0114 	Beldar	day	247.00
+0115	Coolie	day	247.00
+0116	Fitter (grade 1)	day	301.00
+0124	Mason (brick layer) 2nd class	day	273.00
+0155	Mason (average)	day	287.00
+0159	Skilled torch operator for laying tack	day	301.00
+0773	Unslaked lime	quintal	300.00
+1034	Bolts and nuts up to 300 mm in length	quintal	5,400.00
+1182	Surkhi	cum	700.00
+2205	Carriage of Steel	tonne	77.87
+4009	Mild steel tubes hot finished welded type	kilogram	48.00
+7346	Double coupler	each	55.00
+7387	Spigot for standard jointing	kilogram	45.00
+7397	Base Jack	each	180.00
+7398	Challies (M.S. tube)	each	800.00
+7399	Cup locks	each	75.00
+7767	Stone cleaning chemical approved by ASI	litre	164.01
+7768	Water repallent chemical approved by ASI	litre	1,586.25
+7769	Stone surface strengthening chemical approved by ASI	litre	1,017.17
+7770	Turpentine oil	litre	67.50
+7771	Liquid Amonia 5%	litre	160.80
+9999	Sundries	L.S.	1.49

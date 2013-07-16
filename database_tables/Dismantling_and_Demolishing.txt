@@ -1,0 +1,113 @@
+15.1	Demolishing lime concrete manually/ by mechanical means and disposal of material within 50 metres lead as per direction of Engineerin- charge.	cum	234.20
+15.2.1	Demolishing cement concrete manually/ by mechanical means including disposal of material within 50 metres lead as per direction of Engineer - in - charge.Nominal concrete 1:3:6 or richer mix (i/c equivalent design mix)	cum	671.05
+15.2.2	Demolishing cement concrete manually/ by mechanical means including disposal of material within 50 metres lead as per direction of Engineer - in - charge.Nominal concrete 1:4:8 or leaner mix (i/c equivalent design mix)	cum	413.65
+15.3	Demolishing R.C.C. work manually/ by mechanical means including stacking of steel bars and disposal of unserviceable material within 50 metres lead as per direction of Engineer - in- charge.	cum	978.95
+15.4	Demolishing R.B. work manually/ by mechanical means including stacking of steel bars and disposal of unserviceable material within 50 metres lead as per direction of Engineer-in- charge.	cum	874.50
+15.5	Extra for cutting reinforcement bars manually/ by mechanical means in R.C.C. or R.B. work (Payment shall be made on the cross sectional area of R.C.C. or R.B. work) as per direction of Engineer - in -charge.	sqm	325.15
+15.6	Extra for scrapping, cleaning and straightening reinforcement from R.C.C. or R.B. work.	kg	2.60
+15.7.1	Demolishing brick work manually/ by mechanical means including stacking of serviceable material and disposal of unserviceable material within 50 metres lead as per direction of Engineer-in-charge.In mud mortar	cum	194.00
+15.7.2	Demolishing brick work manually/ by mechanical means including stacking of serviceable material and disposal of unserviceable material within 50 metres lead as per direction of Engineer-in-charge.In lime mortar with old mughal bricks	cum	489.50
+15.7.3	Demolishing brick work manually/ by mechanical means including stacking of serviceable material and disposal of unserviceable material within 50 metres lead as per direction of Engineer-in-charge.In lime mortar	cum	234.20
+15.7.4	Demolishing brick work manually/ by mechanical means including stacking of serviceable material and disposal of unserviceable material within 50 metres lead as per direction of Engineer-in-charge.In cement mortar	cum	566.60
+15.8.1	Removing mortar from bricks and cleaning bricks including stacking within a lead of 50 m (stacks of cleaned bricks shall be measured) :From brick work in mud mortar	1000 nos	1277.55
+15.8.2	Removing mortar from bricks and cleaning bricks including stacking within a lead of 50 m (stacks of cleaned bricks shall be measured) :From brick work in lime mortar	1000 nos	1474.15
+15.8.3	Removing mortar from bricks and cleaning bricks including stacking within a lead of 50 m (stacks of cleaned bricks shall be measured) :From brick work in cement mortar	1000 nos	1841.60
+15.9.1	Demolishing stone rubble masonry manually/ by mechanical means including stacking of serviceable material and disposal of unserviceable material within 50 metres lead as per direction of Engineer-in-charge :In lime mortar	cum	318.95
+15.9.2	Demolishing stone rubble masonry manually/ by mechanical means including stacking of serviceable material and disposal of unserviceable material within 50 metres lead as per direction of Engineer-in-charge :In cement mortar	cum	676.05
+15.10.1	Dismantling dressed stone work ashlar face stone work, marble work or precast concrete work manually/ by mechanical means including stacking of serviceable and disposal of unserviceable material within 50 metres lead as per direction of Engineer-in-charge :In lime mortar	cum	403.50
+15.10.2	Dismantling dressed stone work ashlar face stone work, marble work or precast concrete work manually/ by mechanical means including stacking of serviceable and disposal of unserviceable material within 50 metres lead as per direction of Engineer-in-charge :In cement mortar	cum	790.80
+15.11.1	Removing mortar from and cleaning stones and concrete articles (net quantity of stacks of cleaned materials will be measured):In lime mortar	cum	131.50
+15.11.2	Removing mortar from and cleaning stones and concrete articles (net quantity of stacks of cleaned materials will be measured) :In cement mortar	cum	189.55
+15.12.1	Dismantling doors, windows and clerestory windows (steel or wood) shutter including chowkhats, architrave, holdfasts etc. complete and stacking within 50 metres lead :Of area 3 sq. metres and below	each	101.70
+15.12.2	Dismantling doors, windows and clerestory windows (steel or wood) shutter including chowkhats, architrave, holdfasts etc. complete and stacking within 50 metres lead :Of area beyond 3 sq. metres	each	139.85
+15.13.1	Taking out doors, windows and clerestory window shutters (steel or wood) including stacking within 50 metres lead :Of area 3 sq. metres and below	each	39.70
+15.13.2	Taking out doors, windows and clerestory window shutters (steel or wood) including stacking within 50 metres lead :Of area beyond 3 sq. metres	each	52.45
+15.14.1	Dismantling wood work in frames, trusses, purlins and rafters up to 10 metres span and 5 metres height including stacking the material within 50 metres lead :Of sectional area 40 square centimetres and above	cum	1231.15
+15.14.2	Dismantling wood work in frames, trusses, purlins and rafters up to 10 metres span and 5 metres height including stacking the material within 50 metres lead :Of sectional area below 40 square centimetres	metre	4.90
+15.15.1	Extra for dismantling trusses, rafters, purlins etc. of wood work for every additional span of one metre or part thereof beyond 10 metres :Of sectional area 40 square centimetres and above Cum per metre	span	172.65
+15.15.2	Extra for dismantling trusses, rafters, purlins etc. of wood work for every additional span of one metre or part thereof beyond 10 metres :Of sectional area below 40 square centimetres Metre per metre	span	0.50
+15.16.1	Of sectional area 40 square centimetres and above	Cum per metre height	245.90
+15.16.2	Of sectional area below 40 square centimetres	Metre per metre height	0.95
+15.17.1	Dismantling steel work in single sections including dismembering and stacking within 50 metres lead in:R.S. Joists	kg	0.95
+15.17.2	Dismantling steel work in single sections including dismembering and stacking within 50 metres lead in:Channels, angles, tees and flats	kg	0.65
+15.18	Dismantling steel work in built up sections in angles, tees, flats and channels including all gusset plates, bolts, nuts, cutting rivets, welding etc. including dismembering and stacking within 50metres lead.	kg	1.55
+15.19	Dismantling steel work manually/ by mechanical means in built up sections without dismembering and stacking within 50 metres lead as per direction of Engineer-in-charge.	kg	1.05
+15.20	Extra for dismantling trusses, rafters, purlins etc. of steel work for every additional span of one metre or part thereof beyond 10 metres	Kg per metre span	0.25
+15.21	Extra for dismantling trusses, rafters, purlins etc. of steel work for every additional height of one metre or part thereof beyond 5 metres.	Kg per metre height	0.25
+15.22	Extra for marking of structural steel work required to be re-erected.	kg	1.25
+15.23.1	For thickness of tiles 10 mm to 25 mm	sqm	20.30
+15.23.2	For thickness of tiles above 25 mm and up to 40 mm	sqm	31.25
+15.24	Demolishing dry brick pitching in floors, drains etc. including stacking serviceable material and disposal of unserviceable material within50 metres lead :	cum	363.35
+15.25	Dismantling stone slab flooring laid in cement mortar including stacking of serviceable material and disposal of unserviceable material within 50 metres lead.	sqm	73.70
+15.26	Demolishing brick tile covering in terracing including stacking of serviceable material and disposal of unserviceable material within 50 metres lead.	sqm	29.05
+15.27	Demolishing mud phaska in terracing and disposal of material within 50 metres lead.	cum	251.40
+15.28.1	Dismantling roofing including ridges, hips, valleys and gutters etc., and stacking the material within 50 metres lead of :G.S. Sheet	sqm	45.70
+15.28.2	Dismantling roofing including ridges, hips, valleys and gutters etc., and stacking the material within 50 metres lead of :Asbestos sheet	sqm	21.60
+15.29	Dismantling stone slab roofing over wooden karries or R.C.C. battens (dismantling karries and battens to be paid for separately), including stacking of serviceable material and disposal of unserviceable material within 50 metres lead.	cum	736.90
+15.30	Dismantling jack arch roofing and floors including stacking of serviceable material and disposal of unserviceable material within 50 metres lead.	sqm	70.25
+15.31	Dismantling tiled roofing with battens, boarding etc. complete including stacking of serviceable material and disposal of unserviceable material within 50 metres lead.	sqm	58.20
+15.32	Demolishing thatch roofing including mats, bamboo, jaffari etc. complete including stacking of serviceable material and disposal of unserviceable material within 50 metres lead.	sqm	16.10
+15.33	Dismantling wooden ballies in posts and struts including stacking within 50 metres lead.	metre	5.75
+15.34.1	Dismantling and stacking within 50 metres lead, fencing posts or struts including all earth work and dismantling of concrete etc. in base of :T' or 'L' iron or pipe	each	76.00
+15.34.2	Dismantling and stacking within 50 metres lead, fencing posts or struts including all earth work and dismantling of concrete etc. in base of :R.C.C.	each	87.35
+15.35	Cutting ballies or wooden posts of fencing at the point of projection above the concrete or ground and stacking the same within 50 metres lead.	each	7.20
+15.36	Dismantling barbed wire or flexible wire rope in fencing including making rolls and stacking within 50 metres lead.	kg	10.15
+15.37	Dismantling wooden trellis work excluding frames but including stacking the serviceable material within 50 metres lead.	sqm	18.00
+15.38	Dismantling expanded metal or I.R.C. fabrics with necessary battens and beading including stacking the serviceable material within 50 metres lead.	sqm	21.10
+15.39.1	Dismantling wooden boardings in lining of walls and partitions, excluding supporting members but including stacking within 50 metres lead :Up to 10 mm thick	sqm	17.15
+15.39.2	Dismantling wooden boardings in lining of walls and partitions, excluding supporting members but including stacking within 50 metres lead :Thickness above 10 mm up to 25 mm	sqm	21.85
+15.39.3	Dismantling wooden boardings in lining of walls and partitions, excluding supporting members but including stacking within 50 metres lead :Thickness above 25 mm up to 40 mm	sqm	25.85
+15.40.1	Dismantling precast concrete or stone slabs in walls, partition walls etc. including stacking within 50 metres lead :Thickness up to 40 mm	sqm	80.40
+15.40.2	Dismantling precast concrete or stone slabs in walls, partition walls etc. including stacking within 50 metres lead :Thickness above 40 mm up to 75 mm	sqm	120.35
+15.41	Dismantling cement asbestos or other hard board ceiling or partition walls including stacking of serviceable materials and disposal of unserviceable materials within 50 metres lead.	sqm	15.85
+15.42.1	Dismantling C.I. or asbestos rain water pipe with fittings and clamps including stacking the material within 50 metres lead :75 to 80 mm dia pipe	metre	20.80
+15.42.2	Dismantling C.I. or asbestos rain water pipe with fittings and clamps including stacking the material within 50 metres lead :100 mm dia pipe	metre	21.50
+15.42.3	Dismantling C.I. or asbestos rain water pipe with fittings and clamps including stacking the material within 50 metres lead :150 mm dia pipe	metre	22.15
+15.43.1	Dismantling manually/ by mechanical means including stacking of serviceable material and disposal of unserviceable material within 50 metres lead as per direction of Engineer-in-charge :Water bound macadam road	sqm	61.70
+15.43.2	Dismantling manually/ by mechanical means including stacking of serviceable material and disposal of unserviceable material within 50 metres lead as per direction of Engineer-in-charge :bituminous road	sqm	119.95
+15.44.1	Dismantling G.I. pipes (external work) including excavation and refilling trenches after taking out the pipes, manually/ by mechanical means including stacking of pipes within 50 metres lead as per direction of Engineer-in-charge :15 mm to 40 mm nominal bore	metre	44.10
+15.44.2	Dismantling G.I. pipes (external work) including excavation and refilling trenches after taking out the pipes, manually/ by mechanical means including stacking of pipes within 50 metres lead as per direction of Engineer-in-charge :Above 40 mm nominal bore	metre	50.30
+15.45.1	Dismantling C.I. pipes including excavation and refilling trenches after taking out the pipes, manually/ by mechanical means breaking lead caulked joints, melting of lead and making into blocks including stacking of pipes & lead at site within 50 metre lead as per direction of Engineer-in-charge:Up to 150 mm diameter	metre	155.45
+15.45.2	Dismantling C.I. pipes including excavation and refilling trenches after taking out the pipes, manually/ by mechanical means breaking lead caulked joints, melting of lead and making into blocks including stacking of pipes & lead at site within 50 metre lead as per direction of Engineer-in-charge:Above 150 mm dia up to 300 mm dia	metre	198.70
+15.45.3	Dismantling C.I. pipes including excavation and refilling trenches after taking out the pipes, manually/ by mechanical means breaking lead caulked joints, melting of lead and making into blocks including stacking of pipes & lead at site within 50 metre lead as per direction of Engineer-in-charge:Above 300 mm diameter	metre	250.40
+15.46.1	Dismantling steel cylinder R.C. pipes including excavation and refilling trenches after taking out the pipes, manually/ by mechanica means breaking lead caulked joints, melting of lead and making into blocks including stacking of pipes & lead at site within 50 metres lead as per direction of Engineer-in-charge :Up to 600 mm diameter	metre	204.75
+15.46.2	Dismantling steel cylinder R.C. pipes including excavation and refilling trenches after taking out the pipes, manually/ by mechanica means breaking lead caulked joints, melting of lead and making into blocks including stacking of pipes & lead at site within 50 metres lead as per direction of Engineer-in-charge :Above 600 mm diameter	metre	508.80
+15.47.1	Dismantling asbestos cement pressure pipes including excavation and refilling trenches after taking out the pipes manually/ by mechanical means and stacking the pipes within 50 metres lead as per direction of Engineer-in-charge :Up to 150 mm diameter	metre	91.05
+15.47.2	Dismantling asbestos cement pressure pipes including excavation and refilling trenches after taking out the pipes manually/ by mechanical means and stacking the pipes within 50 metres lead as per direction of Engineer-in-charge :Above 150 mm diameter	metre	110.65
+15.48	Taking out C.I. cover with frame from R.C.C. top slab of manholes of various sizes including demolishing of R.C.C. work manually/ by mechanical means and stacking of useful materials near the site and disposal of unserviceable materials within 50 metres lead as per direction of Engineer-in-charge.	each	198.25
+15.49	Taking out C.I. cover with frame from R.C.C. top slab of inspection chambers of various sizes including demolishing of R.C.C. work manually/ by mechanical means and stacking of useful materials near the site and disposal of unserviceable materials within 50 metres lead as per direction of Engineer-in-charge.	each	116.50
+15.50	Dismantling of R.C.C. spun vent shaft including excavating thecement concrete pit completely, taking out the shaft, refilling the excavated gap, stacking the useful materials near the site and disposal of unserviceable materials within 50 metres lead.	each	1298.15
+15.51	Dismantling of road gully chamber of various sizes including C.I. grating with frame including stacking of useful materials near the site and disposal of unserviceable materials within 50 metres lead including refilling the excavated gap.	each	269.70
+15.52	Dismantling of flushing cistern of all types (C.I./PVC/Vitrious China) including stacking of useful materials near the site and disposal of unserviceable materials within 50 metres lead.	each	261.90
+15.53.1	Dismantling of C.I. sluice valve including stacking of useful materials within a lead of 50 metres.Up to 150 mm diameter	each	95.10
+15.53.2	Dismantling of C.I. sluice valve including stacking of useful materials within a lead of 50 metres.Above 150 mm diameter	each	331.85
+15.54	Dismantling of spindle fire hydrant including stacking of useful materials within 50 metres lead.	each	198.90
+15.55.1	Dismantling of cement concrete platform along with curtain walls and base concrete etc. including stacking of useful materials near the site and disposal of unserviceable materials within 50 metres lead :120 x 120 cm (outside to outside)	each	303.70
+15.55.2	Dismantling of cement concrete platform along with curtain walls and base concrete etc. including stacking of useful materials near the site and disposal of unserviceable materials within 50 metres lead :210 x 120 cm (outside to outside)	each	465.95
+15.55.3	Dismantling of cement concrete platform along with curtain walls and base concrete etc. including stacking of useful materials near the site and disposal of unserviceable materials within 50 metres lead :320 x 120 cm (outside to outside)	each	659.30
+15.56	Dismantling old plaster or skirting raking out joints and cleaning the surface for plaster including disposal of rubbish to the dumping ground within 50 metres lead.	sqm	15.00
+15.57	Dismantling aluminium/ Gypsum partitions, doors, windows, fixed glazing and false ceiling including disposal of unserviceable surplus material and stacking of serviceable material with in 50 meters lead as directed by Engineer-in-charge.	sqm	15.90
+15.58	Demolishing R.C.C. work by mechanical means and stockpiling at designated locations and disposal of dismantled materials up to a  lead of 1 kilometre, stacking serviceable and unserviceable material separately including cutting reinforcement bars.	cum	1075.90
+15.59	Dismantling of flexible pavement (bituminous courses) by mechanical means and disposal of dismantled material up to a lead of 1 kilometre, as per direction of Engineer-in-charge.	cum	166.70
+15.60	Disposal of building rubbish / malba / similar unserviceable, dismantled or waste materials by mechanical means, includingloading, transporting, unloading to approved municipal dumping ground or as approved by Engineer-in-charge, beyond 50 m initial lead, for all leads including all lifts involved.	cum	101.75
+0038	Tractor with ripper attachment	day	1350.00
+0039	Tractor with trolley	day	1350.00
+0040	Air compressor 250 cfm with two leads for pneumatic cutters/ hammers	day	1800.00
+0041	Joint cutting machine with 2-3 blades	day	900.00
+0100	Bandhani	day	260.00
+0101	Bhisti	day	260.00
+0103	Blacksmith 2nd class	day	273.00
+0112	Carpenter 2nd class	day	273.00
+0114	Beldar	day	247.00
+0115	Coolie	day	247.00
+0116	Fitter (grade 1 )	day	301.00
+0117	Assistant Fitter or 2nd class fitter	day	273.00
+0123	Mason (brick layer ) 1st class	day	301.00
+0124	Mason (brick layer ) 2nd class	day	273.00
+0128	Mate	day	260.00
+0130	Mistry	day	301.00
+0139	Skilled Beldar (for floor rubbing etc.)	day	260.00
+0761	Fuel wood	quintal	450.00
+0771	Kerosene oil	litre	30.00
+2264	Carriage of Rubbish	cum	87.60
+9999	Sundries	L.S.	1.49
